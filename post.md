@@ -1,7 +1,8 @@
 ---
 layout: index
 ---
-
+# Blog
+---
 <ul class="posts">
   {% for post in site.posts %}
   <li>
