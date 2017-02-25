@@ -8,7 +8,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         CV
-    url:          /index
+    url:          /index.html
   - name:         Presentation
     url:          /presentation
   - name:         GitHub
