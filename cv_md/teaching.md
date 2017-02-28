@@ -1,4 +1,4 @@
-# Teaching Experience
+## Teaching Experience
 
 - 2013 Spring TA, **Quantum Mechanics I**, KAIST, graduate level
 - 2012 Fall TA, **Quantum Mechanics II**, KAIST, graduate level 

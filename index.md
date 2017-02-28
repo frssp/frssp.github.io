@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Curriculum Vitae
 ---
 {% include_relative cv_md/contact.md %} 

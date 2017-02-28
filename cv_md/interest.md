@@ -1,4 +1,4 @@
-# Research Interest
+## Research Interest
 
 - First-principles calculation and tight-binding modeling of nanostructures and defects in semiconductors
 - Material design thorough computational search

@@ -1,7 +1,6 @@
 ---
-layout: index
----
-# Blog
+layout: page
+title: Blog
 ---
 <ul class="posts">
   {% for post in site.posts %}

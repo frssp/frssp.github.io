@@ -1,4 +1,4 @@
-# Technical Skill
+## Technical Skill
 
 - First-principles calculations within the Density Functional Theory (DFT) framework and tight-binding modeling
 - Experience in molecular dynamics simulations and finite-difference modeling

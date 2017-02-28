@@ -1,4 +1,4 @@
-# Publication
+## Publication
 
 1.   **Sunghyun Kim**, Woo Hyun Han, In-Ho Lee, and K. J. Chang, **"Discovery of Half-Metallic Two-Dimensional Boron Kagome Lattice through Material Design"**, (in preparation) 
 1.   Ha-Jun Sung, Sunghyun Kim, In-Ho Lee, and K. J. Chang, **"Semimetallic carbon allotrope with topological nodal line in mixed sp²-sp³ bonding networks"** (NPG Asia Materials accepted)
