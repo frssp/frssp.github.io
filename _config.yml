@@ -11,13 +11,14 @@ links:
     url:          /index.html
   - name:         Presentation
     url:          /presentation
-  - name:         GitHub
-    url:          http://github.com/frssp
-    external:     true
   - name:         Blog   
     url:          /post   
   - name:         phys_kr
     url:          /phys_kr
+
+#  - name:         GitHub
+#url:          http://github.com/frssp
+#external:     true
 # highlighter:      pygments
 gems:
   - jemoji

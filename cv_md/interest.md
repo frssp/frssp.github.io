@@ -1,5 +1,6 @@
 ## Research Interest
 
+- Non-radiative carrier recombination via SRH process
 - First-principles calculation and tight-binding modeling of nanostructures and defects in semiconductors
 - Material design thorough computational search
 - Band-unfolding for first-principles electronic structures
