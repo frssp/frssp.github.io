@@ -23,3 +23,5 @@ links:
 gems:
   - jemoji
 # permalink:        pretty
+
+theme: jekyll-theme-modernist
