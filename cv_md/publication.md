@@ -1,8 +1,12 @@
 ## Publication
 
-1.   **Sunghyun Kim**, Ji-Sang Park, Aron Walsh, **"Identification of Killer Defects in Kesterite Thin-Film Solar Cells"**, [ACS Energy Lett. 3 496 (2018)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b01313)
+
+1. **Sunghyun Kim**, Ji-Sang Park, Aron Walsh, **"Identification of Killer Defects in Kesterite Thin-Film Solar Cells"**, [ACS Energy Lett. 3 496 (2018)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b01313)
 
 1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **"Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors"** [Phys. Rev. Mat. 2 , 014602 (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602)	
+
+1. Woo Hyun Han, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **"Prediction of Green Phosphorus with Tunable Direct Band Gap and High Mobility"**, [J. Phys. Chem. Lett. 8, 4627(2017)](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02153)
+
 1.   **Sunghyun Kim**, Woo Hyun Han, In-Ho Lee, and K. J. Chang, **"Discovery of Half-Metallic Two-Dimensional Boron Kagome Lattice through Material Design"**,  [Scientific Reports 7, 7279 (2017)](https://www.nature.com/articles/s41598-017-07518-9) 
 
 1.   Ha-Jun Sung, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **"Semimetallic carbon allotrope with topological nodal line in mixed sp²-sp³ bonding networks"** [NPG Asia Materials 9, e361 (2017)](http://www.nature.com/am/journal/v9/n3/full/am201726a.html)
