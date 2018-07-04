@@ -4,6 +4,9 @@
     <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
     <title>{{ page.title }} - {{ site.title }}</title>
     {% include head.html %}
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
   </head>
   <body>
     {% include header.html %}

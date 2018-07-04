@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Curriculum Vitae
+<!-- title: Curriculum Vitae -->
+use_math: true
 ---
 {% include_relative cv_md/contact.md %} 
 {% include_relative cv_md/interest.md %} 

@@ -1,4 +1,4 @@
-## Sunghyun Kim  
+# Sunghyun Kim  
 Postdoctoral Research Associate at [Materials Design Group](https://wmd-group.github.io)  
 Department of Materials, Imperial College London,  
 Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK  

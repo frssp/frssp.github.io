@@ -1,0 +1,144 @@
+% Curriculum vitae
+\documentclass[10pt]{article}
+
+%%%------------------------------------------------------------------------
+%%% Packages 
+%%%------------------------------------------------------------------------
+
+\usepackage{microtype}
+\frenchspacing
+\usepackage[letterpaper,margin=0.8in]{geometry}
+\setlength\parindent{0in}
+\setlength\parskip{6pt}
+\setlength{\emergencystretch}{3em}
+\usepackage[osf,sc]{mathpazo}
+\usepackage{inconsolata}
+\usepackage{fancyhdr}
+\pagestyle{plain}
+\frenchspacing
+\usepackage[sfdefault]{roboto}
+\usepackage[T1]{fontenc}
+
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+
+\def\myauthor{Sunghyun Kim}
+\def\mytitle{Vita}
+\def\mycopyright{\myauthor}
+\def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
+\def\myaffiliation{Imperial College London}
+\def\myjob{Postdoctoral Research Associate}
+\def\mygroup{Materials Design Group}
+\def\myaddress{Department of Materials, Imperial College London,
+Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK}
+\def\myemail{sunghyun.kim@imperial.ac.uk}
+\def\myweb{https://frssp.github.io}
+\def\myphone{+44 7737 181882}
+% \def\mytwitter{ichmonkdy}
+\def\mygithub{frssp}
+\def\myorcid{0000-0001-5072-6801}
+
+\date{} % not used (revision control instead)
+% \def\mykeywords{Jason, Heppler, Jason Heppler, Vita, CV, Resume, History, Libraries}
+
+% HEADINGS
+\usepackage{graphicx}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage{multicol}
+\sectionfont{\mdseries\bfseries\Large}
+\subsectionfont{\mdseries\scshape\normalsize}
+\subsubsectionfont{\bfseries\upshape\normalsize}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+% disables chapter, section and subsection numbering
+\setcounter{secnumdepth}{-1}
+\usepackage[usenames,dvipsnames]{xcolor}
+% tightlist fix
+\def\tightlist{}
+
+%%%------------------------------------------------------------------------
+% PDF SETUP
+%%%------------------------------------------------------------------------
+
+\PassOptionsToPackage{hyphens}{url}\usepackage[hidelinks, breaklinks, pdftex, pdftitle={Sunghyun Kim - CV}, pdfauthor={Sunghyun Kim}]{hyperref}
+\hypersetup{
+  colorlinks   = true,
+  allcolors    = RoyalBlue 
+}
+
+%\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
+%\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+\usepackage{fontawesome}
+
+%%%------------------------------------------------------------------------
+%%% Document 
+%%%------------------------------------------------------------------------
+
+\begin{document}
+
+\thispagestyle{fancy}
+\fancyfoot{}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+
+%%%------------------------------------------------------------------------
+%%% Version date
+%%%------------------------------------------------------------------------
+
+%%% The next line will put the date revised in footer of first page
+\rfoot{\scriptsize Current as of \today}
+
+\hfill\hfill\hfill
+\hfill\hfill\hfill
+\hfill\hfill\hfill
+\hfill\hfill\hfill
+
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+
+\noindent{\huge \bf Sunghyun Kim, PhD}\\[-0.3in] \\
+% \noindent{\footnotesize \emph{Curriculum Vitae}}
+
+\vskip 0.05in
+
+\begin{minipage}[t]{3.1in}
+  \flushleft {%\footnotesize
+  \myjob \\
+  \mygroup \\
+  \myaddress\\
+  % UNO Libraries \& Dept. of History \\ 
+  % University of Nebraska at Omaha \\
+  % 6001 Dodge Street \\
+  % \vspace{-0.05in} Omaha, \textsc{ne} 68182}
+  }
+\end{minipage}
+\hfill
+\hfill
+\hspace{1in}
+% \begin{left}
+\begin{minipage}[t]{3.1in}
+  % \flushleft %\footnotesize
+  \faEnvelopeO  \texttt{ \href{mailto:\myemail}{\myemail}} \\
+  \faPhone \texttt{ \myphone }\\
+  \faGlobe \texttt{ \href{\myweb}{\myweb}} \\ 
+  % \faTwitterSquare \texttt{\href{http://twitter.com/jaheppler}{\mytwitter}} \\
+  \faGithubSquare \texttt{ \href{http://github.com/\mygithub}{\mygithub}} \\
+  \includegraphics[height=\fontcharht\font`\B]{images/orcid_16x16.png} \texttt{ \href{https://orcid.org/\myorcid}{\myorcid}}
+  %\faLinkedinSquare \texttt{\href{http://linkedin.com/in/jasonheppler/}{jasonheppler}} \\
+\end{minipage}
+% \end{left}
+% \vskip 0.5in
+\input{_tex/interest}
+\input{_tex/skill}
+\input{_tex/education}
+\input{_tex/experience}
+\input{_tex/publication}
+\end{document}

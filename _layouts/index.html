@@ -3,6 +3,9 @@
     <meta content='{{ site.title }}' property='og:title' />
     <title>{{ site.title }}</title>
     {% include head.html %}
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
   </head>
   <body>
     {% include header.html %}

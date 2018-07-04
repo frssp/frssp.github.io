@@ -252,9 +252,9 @@ section.post {
     padding: 0; }
   section.post h1 {
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
     line-height: 1.5em;
-    margin-bottom: 60px; }
+    margin-bottom: 5px; }
     section.post h1 .date {
       color: #d0d0d0;
       font-size: 15px; }
