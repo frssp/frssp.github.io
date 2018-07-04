@@ -20,6 +20,7 @@ links:
 #url:          http://github.com/frssp
 #external:     true
 # highlighter:      pygments
-gems:
+plugins:
   - jemoji
 # permalink:        pretty
+markdown: kramdown
