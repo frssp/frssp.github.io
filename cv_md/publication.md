@@ -9,7 +9,7 @@
 
 1.   **Sunghyun Kim**, Woo Hyun Han, In-Ho Lee, and K. J. Chang, **"Discovery of Half-Metallic Two-Dimensional Boron Kagome Lattice through Material Design"**,  [Scientific Reports 7, 7279 (2017)](https://www.nature.com/articles/s41598-017-07518-9) 
 
-1.   Ha-Jun Sung, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **"Semimetallic carbon allotrope with topological nodal line in mixed sp$^3$ -sp$^2$  bonding networks"** [NPG Asia Materials 9, e361 (2017)](http://www.nature.com/am/journal/v9/n3/full/am201726a.html)
+1.   Ha-Jun Sung, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **"Semimetallic carbon allotrope with topological nodal line in mixed sp$^3~$-sp$^2~$  bonding networks"** [NPG Asia Materials 9, e361 (2017)](http://www.nature.com/am/journal/v9/n3/full/am201726a.html)
 
 1.   Woo Hyun Han, Young Jun Oh, Duk-Hyun Choe, **Sunghyun Kim**, In-Ho Lee and Kee Joo Chang, **"Three-dimensional buckled honeycomb boron lattice with vacancies as an intermediate phase on the transition pathway from $\alpha$-B to $\gamma$-B"** [NPG Asia Materials 9, e400 (2017)](http://www.nature.com/am/journal/v9/n7/full/am201798a.html)
 
@@ -24,6 +24,6 @@
 
 1.  **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, **"Finite-size supercell correction scheme for charged defects in one-dimensional systems"**, [Phys. Rev. B 90, 085435 (2014).](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.085435)
 
-1.  **Sunghyun Kim**, Ji-Sang Park, K. J. Chang, **"Stability and Segregation of B and P Dopants in Si/SiO$_2$ Core–Shell Nanowires"**, [Nano lett. 12, 5068 (2012).](http://pubs.acs.org/doi/abs/10.1021/nl3013924)
+1.  **Sunghyun Kim**, Ji-Sang Park, K. J. Chang, **"Stability and Segregation of B and P Dopants in Si/SiO$_2~$ Core–Shell Nanowires"**, [Nano lett. 12, 5068 (2012).](http://pubs.acs.org/doi/abs/10.1021/nl3013924)
   
 <!-- 1.   **Sunghyun Kim** and K. J. Chang, **"Band Structure Unfolding Scheme and its Application to Self-consistent Hybrid Functional Calculations in Semiconductor Nanowires"**, (in preparation)  -->
