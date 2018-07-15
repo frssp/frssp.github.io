@@ -1,5 +1,7 @@
 # Publication
-1. Ji-Sang Park, **Sunghyun Kim**, Zijuan Xie, and Aron Walsh, **"Point defect engineering in thin-film solar cells"**, [Nature Review Materials](https://doi.org/10.1038/s41578-018-0026-7)
+1. Ji-Sang Park, **Sunghyun Kim**, Zijuan Xie, and Aron Walsh, **"Point defect engineering in thin-film solar cells"**, [Nat. Rev. Mat. 3, 194 (2018)](https://doi.org/10.1038/s41578-018-0026-7)
+
+1. MinJoong Kim, **Sunghyun Kim**, Dong Hoon Song, Se Kwon Oh, Kee Joo Chang, and Eun Ae Cho, **Promotion of electrochemical oxygen evolution reaction by chemical coupling of cobalt to molybdenum carbide** [Appl. Catal. B 227, 340 (2018)](https://doi.org/10.1016/j.apcatb.2018.01.051)
 
 1. **Sunghyun Kim**, Ji-Sang Park, and Aron Walsh, **"Identification of Killer Defects in Kesterite Thin-Film Solar Cells"**, [ACS Energy Lett. 3 496 (2018)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b01313)
 
