@@ -270,7 +270,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | alternating current voltage |   교류 전압   |
  | alternating current voltmeter   |   교류 전압계  |
  | alternating electromotive force |   교류 기전력  |
-|   alternating gradient synchrotron    |   에이지 싱크로트론, 교류 기울기  싱트론     |
+ | alternating gradient synchrotron    |   에이지 싱크로트론, 교류 기울기  싱트론     |
  | alternation |   교대  |
  | altimeter   |   고도계 |
  | altitude    |   (1)표고 (2)고도 |
@@ -370,7 +370,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | anisotropic body    |   비등방성 물체 |
  | anisotropic liquid  |   비등방성 액체 |
  | anisotropic magnetoresistance   |   비등방성 자기 저항  |
-|   anisotropic polarization    |   (1)비등방성 편극 (2)비등방성 편광 (3) 비성 편향    |
+ | anisotropic polarization    |   (1)비등방성 편극 (2)비등방성 편광 (3) 비성 편향    |
  | anisotropic solid   |   비등방성 고체 |
  | anisotropy  |   비등방성    |
  | anisotropy energy   |   비등방성 에너지    |
@@ -703,7 +703,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | background scattering   |   배경 산란, 바탕 흩뜨림   |
  | backward reaction   |   역반응 |
  | bag model   |   주머니 모형  |
-|   Baker-Campbell-Hausdorff formula    |   베이커∙캠벨∙하우스도르프 공식     | balance |   (1)저울, 천칭 (2)평형 (3)나머지  |
+ | Baker-Campbell-Hausdorff formula    |   베이커∙캠벨∙하우스도르프 공식     |
+ | balance |   (1)저울, 천칭 (2)평형 (3)나머지  |
  | balance coil    |   평형 코일   |
  | balanced circuit    |   평형 회로   |
  | ballistic galvanometer  |   탄동 검류계, 충격 검류계  |
@@ -739,7 +740,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | barrier permeability    |   장벽 투과성  |
  | Bartlett force  |   바틀릿 힘   |
  | Bartlett interaction    |   바틀릿 상호작용, 바틀릿 서로작용  |
-|   Bartlett's exchange operator    |   바틀릿 바꿈 연산자, 바틀릿 교환  연  |
+ | Bartlett's exchange operator    |   바틀릿 바꿈 연산자, 바틀릿 교환  연  |
  | barycenter  |   (1)무게 중심 (2)질량 중심   |
  | baryon  |   중입자, 바리온    |
  | baryon number   |   중입자수, 바리온수  |
@@ -751,7 +752,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | basis   |   (1)기저 (2)기선 (3)기준   |
  | Bateman equation    |   베이트먼 방정식    |
  | battery |   (1)[총칭] 전지 (2)건전지 (3)축전지    |
-|   BBGKY hierarchy |   비비지케이와이 계층 [=  Bn-Bogoliubov-Green-Kirkwood-Yvon hierarchy]    |
+ | BBGKY hierarchy |   비비지케이와이 계층 [=  Bn-Bogoliubov-Green-Kirkwood-Yvon hierarchy]    |
  | BCS model   |   비시에스 모형 [= Bardeen-Cooper-Schrieffer model] |
  | beaker  |   비커  |
  | beam    |   (1)빔, 살 (2)보, 막대    |
@@ -802,7 +803,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Bethe formula   |   베테 공식   |
  | Bethe lattice   |   베테 격자, 베테 살창    |
  | Bethe-ansatz technique  |   베테 가설 풀이 기법 |
-|   Bethe-Peierls approximation |   베테∙파이얼스 근사(법), 베테∙파이얼스 어림( 법   |
+ | Bethe-Peierls approximation |   베테∙파이얼스 근사(법), 베테∙파이얼스 어림( 법   |
  | Bethe-Salpeter equation |   베테∙샐피터 방정식  |
  | bevatron    |   베바트론    |
  | BF₃counter  |   플루오르화붕소 계수기, 플루오르화붕소 수세개    |
@@ -877,7 +878,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | body force  |   몸(통)힘, 체적력  |
  | body-centered cubic crystal |   체심 입방 결정    |
  | body-centered lattice   |   체심 격자, 체심 살창    |
-|   body-centered solid-on-solid model  |   체심 고체 위 고체 모형 [=  BOS model]   |
+ | body-centered solid-on-solid model  |   체심 고체 위 고체 모형 [=  BOS model]   |
  | body-fixed system   |   몸체 고정계  |
  | Bogoliubov transformation   |   보골리우보프 변환   |
  | Bohm diffusion  |   봄 퍼짐, 봄 확산  |
@@ -924,7 +925,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Born approximation  |   보른 근사(법), 보른 어림(법)  |
  | Born relation   |   보른 관계식  |
  | Born-Haber cycle    |   보른∙하버 순환    |
-|   Born-Oppenheimer approximation  |   보른∙오펜하이머 근사(법),  보오펜하이머 어림(법)  |
+ | Born-Oppenheimer approximation  |   보른∙오펜하이머 근사(법),  보오펜하이머 어림(법)  |
  | Born's assumption   |   보른(의) 가정    |
  | Bose distribution   |   보스 분포   |
  | Bose gas    |   보스 기체   |
@@ -1063,12 +1064,12 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | canonical ensemble  |   바른틀 모둠, 정준 앙상블  |
  | canonical equation  |   바른틀 방정식, 정준 방정식     |
  | canonical equation of state |   바른틀 상태 방정식, 정준 상태 방정식   |
-|   canonical equations of motion   |   바른틀 운동 방정식, 정준 운동  방   |
+ | canonical equations of motion   |   바른틀 운동 방정식, 정준 운동  방   |
  | canonical form  |   바른틀꼴, 정준형   |
  | canonical operator  |   바른틀 연산자, 정준 연산자     |
  | canonical transformation    |   바른틀 변환, 정준 변환   |
  | canonical variable  |   바른틀 변수, 정준 변수   |
-|   canonically conjugate momentum  |   바른틀 켤레 운동량, 정준 공액  운   |
+ | canonically conjugate momentum  |   바른틀 켤레 운동량, 정준 공액  운   |
  | canonically conjugate variable  |   바른틀 켤레 변수, 정준 공액 변수 |
  | Cantor set  |   칸토어 집합  |
  | capacitance |   전기 용량, 전기 들이    |
@@ -1164,7 +1165,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | center of gravity   |   무게 중심   |
  | center of inversion |   뒤집힘 중심, 반전 중심   |
  | center of mass  |   질량 중심   |
-|   center of mass coordinate system    |   질량 중심 좌표계, 질량 중심  자계   |
+ | center of mass coordinate system    |   질량 중심 좌표계, 질량 중심  자계   |
  | center of mass motion   |   질량 중심 운동    |
  | center of mass system   |   질량 중심 계 |
  | center of mirror    |   거울 중심   |
@@ -1310,7 +1311,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | circular truncated cone |   원뿔대 |
  | circular wave guide |   원형 도파관,  원형 파동 길잡이  |
  | circulation |   순환  |
-|   circulation theorem for magnetic fields |   자기장 순환 정리, 자기 마당  순정리  |
+ | circulation theorem for magnetic fields |   자기장 순환 정리, 자기 마당  순정리  |
  | circumference   |   원둘레, 원주 |
  | circumscription |   외접  |
  | circus experiment   |   순환 실험   |
@@ -1381,7 +1382,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | coefficient of electric capacity    |   전기 용량 계수    |
  | coefficient of electrostatic capacity   |   정전기 용량 계수   |
  | coefficient of electrostatic induction  |   정전기 유도 계수   |
-|   coefficient of electrostatic potential  |   정전기 전위 계수, 정전기  퍼 계수   |
+ | coefficient of electrostatic potential  |   정전기 전위 계수, 정전기  퍼 계수   |
  | coefficient of extinction   |   소광 계수, 흡광 계수    |
  | coefficient of friction |   마찰 계수   |
  | coefficient of heat conduction  |   열전도 계수  |
@@ -1405,11 +1406,11 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | coherent length |   결맞는 길이  |
  | coherent light  |   결맞는빛    |
  | coherent neutron scattering |   결맞는 중성자 산란, 결맞는 중성자 흩뜨림 |
-|   coherent potential approximation    |   결맞는 퍼텐셜 근사, 결맞는 퍼텐셜  어 |
+ | coherent potential approximation    |   결맞는 퍼텐셜 근사, 결맞는 퍼텐셜  어 |
  | coherent scattering |   결맞는 산란, 결맞는 흩뜨림     |
  | coherent state  |   결맞는 상태  |
  | coherent superposition  |   결맞는 포갬, 결맞는 중첩  |
-|   coherent X-ray scattering   |   결맞는 엑스선 흩뜨림, 결맞는 엑스선  산    |
+ | coherent X-ray scattering   |   결맞는 엑스선 흩뜨림, 결맞는 엑스선  산    |
  | cohesion    |   (1)응집 (2)응집력    |
  | cohesive energy |   응집 에너지  |
  | cohesive force  |   응집력 |
@@ -1452,7 +1453,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | collision time  |   충돌 시간   |
  | collisional broadening  |   충돌 확장   |
  | collisional invariant   |   충돌 불변량  |
-|   collision-induced light scattering  |   충돌에 의한 빛산란, 부딪침에 의한  빛림    |
+ | collision-induced light scattering  |   충돌에 의한 빛산란, 부딪침에 의한  빛림    |
  | collisionless plasma    |   무충돌 플라스마    |
  | colloid |   콜로이드, 교질    |
  | colloidal particle  |   콜로이드 입자, 콜로이드 알갱이   |
@@ -1572,7 +1573,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Compton scattering  |   콤프턴 산란, 콤프턴 흩뜨림 |
  | Compton wave length |   콤프턴 파장  |
  | computer    |   컴퓨터, 전산기    |
-|   computer simulated experiment   |   컴퓨터 시늉 실험, 전산기 시늉 실험     |   computer simulational molecular dynamics    |   컴퓨터 시늉  분역학    |
+ |  computer simulated experiment   |   컴퓨터 시늉 실험, 전산기 시늉 실험     |  
+ | computer simulational molecular dynamics    |   컴퓨터 시늉  분역학    |
  | concave |   오목- |
  | concave down    |   아래로 오목- |
  | concave grating |   오목 에돌이발 |
@@ -1613,7 +1615,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | configuration integral  |   짜임새 적분, 배위 적분   |
  | configuration mixing    |   짜임새 섞임, 배위 혼합   |
  | configuration space |   짜임새 공간, 배위 공간   |
-|   configurational partition function  |   짜임새 분배 함수, 배위 분배 함수  | confinement |   가둠, 속박  |
+ | configurational partition function  |   짜임새 분배 함수, 배위 분배 함수  |
+ | confinement |   가둠, 속박  |
  | confinement time    |   가둠 시간, 속박 시간    |
  | confluent singularity   |   합류 특이성, 융합 특이성  |
  | conformal anomaly   |   등각 변칙   |
@@ -1663,9 +1666,9 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | constant speed  |   등속력 |
  | constant term   |   상수항 |
  | constant velocity   |   등속도 |
-|   constant-pressure gas thermometer   |   일정 압력 기체 온도계, 등압 기체  온 |
+ | constant-pressure gas thermometer   |   일정 압력 기체 온도계, 등압 기체  온 |
  | constant-pressure specific heat |   일정 압력 비열, 등압 비열 |
-|   constant-volume gas thermometer |   일정 부피 기체 온도계, 등적 기체  온 |
+ | constant-volume gas thermometer |   일정 부피 기체 온도계, 등적 기체  온 |
  | constant-volume specific heat   |   일정 부피 비열, 등적 비열 |
  | constellation   |   별자리 |
  | constituent quark model |   성분 쿼크 모형    |
@@ -1677,7 +1680,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | contact angle   |   접촉각 |
  | contact electricity |   접촉 전기   |
  | contact force   |   접촉힘 |
-|   contact hyperfine interaction   |   접촉 초미세 상호작용, 접촉 초미세  서용    |
+ | contact hyperfine interaction   |   접촉 초미세 상호작용, 접촉 초미세  서용    |
  | contact interaction |   접촉 상호작용, 접촉 서로작용    |
  | contact point   |   접점  |
  | contact potential   |   접촉 전위, 접촉 퍼텐셜   |
@@ -1830,7 +1833,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Coulomb interaction |   쿨롱 상호작용 |
  | Coulomb interference    |   쿨롱 간섭   |
  | Coulomb potential   |   쿨롱 퍼텐셜  |
-|   Coulomb repulsion   |   (1)쿨롱 척력, 쿨롱 반발력 (2)쿨롱 반발, 쿨롱  밀   |
+ | Coulomb repulsion   |   (1)쿨롱 척력, 쿨롱 반발력 (2)쿨롱 반발, 쿨롱  밀   |
  | Coulomb scattering  |   쿨롱 산란, 쿨롱 흩뜨림   |
  | Coulomb's law   |   쿨롱 법칙   |
  | Coulomb's theorem   |   쿨롱 정리   |
@@ -2093,7 +2096,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Debye unit  |   디바이 단위  |
  | Debye-Huckel theory |   디바이∙휘켈 이론   |
  | Debye-Scherrer camera   |   디바이∙셰러 카메라  |
-|   Debye-Scherrer powder technique |   디바이∙셰러 분말법, 디바이∙셰러  가  |
+ | Debye-Scherrer powder technique |   디바이∙셰러 분말법, 디바이∙셰러  가  |
  | Debye-Waller factor |   디바이∙발러 인자   |
  | decay   |   (1)붕괴 (2)줄어듦, 감쇠    |
  | decay chain |   붕괴 사슬   |
@@ -2235,8 +2238,9 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | deuterium   |   중수소 |
  | deuteron    |   중수소핵, 중양성자  |
  | deuteron capture    |   중수소핵 포획, 중양성자 포획    |
-|   deuteron stripping reaction |   중수소핵 벗기기 반응, 중양성자 벗기기  반   |
-|   developer   |   (1)현색제 (2)[사진의] 현상액 (3)[종이크로마토그래피의] 전개제  | development |   (1)전개 (2)현상 |
+ | deuteron stripping reaction |   중수소핵 벗기기 반응, 중양성자 벗기기  반   |
+ | developer   |   (1)현색제 (2)[사진의] 현상액 (3)[종이크로마토그래피의] 전개제  |
+ | development |   (1)전개 (2)현상 |
  | deviation   |   편차, 벗어나기    |
  | deviation angle |   편차각, 벗어나기각  |
  | device  |   장치  |
@@ -2335,7 +2339,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | diffusion potential |   퍼짐 퍼텐셜, 확산 퍼텐셜  |
  | diffusion pump  |   퍼짐 펌프, 확산 펌프    |
  | diffusion velocity  |   퍼짐 속도, 확산 속도    |
-|   diffusion-limited aggregation   |   퍼짐 제한 뭉침, 확산 제한 응집 [=  D]  |
+ | diffusion-limited aggregation   |   퍼짐 제한 뭉침, 확산 제한 응집 [=  D]  |
  | diffusion-transfer reversal process |   확산∙전달 역과정   |
  | diffusivity |   퍼짐도, 확산도    |
  | digestion   |   소화  |
@@ -2374,7 +2378,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | dipole radiation    |   쌍극자 복사  |
  | dipole strength |   쌍극자 세기  |
  | dipole transition   |   쌍극자 전이  |
-|   dipole-dipole interaction   |   쌍극자∙쌍극자 상호작용, 쌍극자∙쌍극자  서용  |
+ | dipole-dipole interaction   |   쌍극자∙쌍극자 상호작용, 쌍극자∙쌍극자  서용  |
  | dipole-sum rule |   쌍극자 합규칙 |
  | dipping refractometer   |   담금 굴절계, 담금 꺾임 재개    |
  | diquark |   쌍쿼크 |
@@ -2461,7 +2465,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | distance of distinct vision |   잘보임 거리, 명시 거리   |
  | distillation    |   증류  |
  | distorted plane wave    |   찌그러진 평면파, 왜곡 평면파    |
-|   distorted wave Born approximation   |   찌그러진 파동 보른 근사법,  찌진 파동 보른 어림법  |
+ | distorted wave Born approximation   |   찌그러진 파동 보른 근사법,  찌진 파동 보른 어림법  |
  | distorted well  |   찌그러진 우물 |
  | distortion  |   찌그러짐, 왜곡    |
  | distortion of image |   영상 찌그러짐, 영상 왜곡  |
@@ -2469,7 +2473,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | distribution    |   (1)분포 (2)분배 |
  | distribution curve  |   분포 곡선   |
  | distribution function   |   분포 함수   |
-|   distribution function of the order parameter    |   질서 변수의 분포  함   |
+ | distribution function of the order parameter    |   질서 변수의 분포  함   |
  | distribution law    |   (1)분배 법칙 (2)분포 법칙   |
  | disturbance |   교란  |
  | divalent    |   이가- |
@@ -2666,17 +2670,17 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Einstein summation convention   |   아인슈타인 합규약   |
  | Einstein tower  |   아인슈타인 탑 |
  | Einstein-Nernst equation    |   아인슈타인∙네른스트 방정식  |
-|   Einstein-Podolsky-Rosen correlation |   아인슈타인∙포돌스키∙로젠  상계  |
+ | Einstein-Podolsky-Rosen correlation |   아인슈타인∙포돌스키∙로젠  상계  |
  | Einstein's absorption coefficient   |   아인슈타인 흡수 계수 |
-|   Einstein's coefficient of spontaneous emission  |   아인슈타인(의)  자방출 계수   |
-|   Einstein's coefficient of stimulated emission   |   아인슈타인(의)  유방출 계수   |
+ | Einstein's coefficient of spontaneous emission  |   아인슈타인(의)  자방출 계수   |
+ | Einstein's coefficient of stimulated emission   |   아인슈타인(의)  유방출 계수   |
  | Einstein's effect   |   아인슈타인 효과    |
-|   Einstein's formula of specific heat |   아인슈타인(의) 견줌열 공식,  아타인(의) 비열 공식     |
-|   Einstein's photochemical equivalence law    |   아인슈타인(의) 빛화학  등법칙  |
+ | Einstein's formula of specific heat |   아인슈타인(의) 견줌열 공식,  아타인(의) 비열 공식     |
+ | Einstein's photochemical equivalence law    |   아인슈타인(의) 빛화학  등법칙  |
  | Einstein's photoelectric equation   |   아인슈타인(의) 광전 방정식 |
  | Einstein's principle of relativity  |   아인슈타인(의) 상대성 원리 |
  | Einstein's theory of gravitation    |   아인슈타인(의) 중력 이론  |
-|   Einstein's theory of light quantum  |   아인슈타인(의) 빛양자 이론,  아타인(의) 광양자론  |
+ | Einstein's theory of light quantum  |   아인슈타인(의) 빛양자 이론,  아타인(의) 광양자론  |
  | Einstein's unified field theory |   아인슈타인(의) 통일장 이론 |
  | ejection    |   분출, 분사  |
  | elastic |   탄성- |
@@ -2905,7 +2909,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | electron screening  |   전자 가리기  |
  | electron shell  |   전자 껍질   |
  | electron spectrometry   |   전자 분광법  |
-|   electron spectroscopy for chemical analysis |   화학 분석용 전자 분광( 법|
+ | electron spectroscopy for chemical analysis |   화학 분석용 전자 분광( 법|
  | electron spin   |   전자 스핀   |
  | electron spin moment    |   전자 스핀 모멘트   |
  | electron spin relaxation    |   전자 스핀 풀림, 전자 스핀 완화  |
@@ -2928,7 +2932,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | electronic clock    |   전자 시계   |
  | electronic computer |   전자 컴퓨터, 전자 계산기  |
  | electronic configuration    |   전자 배열   |
-|   electronic data processing system   |   전자 자료 처리 체계 [=  ES]    |
+ | electronic data processing system   |   전자 자료 처리 체계 [=  ES]    |
  | electronic energy   |   전자 에너지  |
  | electronic excitation   |   전자 들뜸   |
  | electronic polarizability   |   전자 편극율  |
@@ -2940,9 +2944,9 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | electronics |   전자공학    |
  | electronograph  |   전자 사진   |
  | electron-positron pair  |   전자∙양전자쌍, 전자∙양전자짝    |
-|   electron-positron pair formation    |   전자∙양전자쌍 생성, 전자∙양전자짝  생 |
+ | electron-positron pair formation    |   전자∙양전자쌍 생성, 전자∙양전자짝  생 |
  | electrooptic shutter    |   전기 광학 여닫개   |
-|   electrooptical birefringence    |   전기 광학적 복굴절, 전기 광학적  겹  |
+ | electrooptical birefringence    |   전기 광학적 복굴절, 전기 광학적  겹  |
  | electrooptics   |   전기광학    |
  | electroosmosis  |   전기 삼투   |
  | electrophoresis |   전기 이동   |
@@ -3058,7 +3062,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | energy level diagram    |   에너지 준위 도표   |
  | energy loss |   에너지 손실  |
  | energy momentum tensor  |   에너지 운동량 텐서  |
-|   energy of electromagnetic field |   전자기장 에너지, 전자기 마당  에    |
+ | energy of electromagnetic field |   전자기장 에너지, 전자기 마당  에    |
  | energy of excitation    |   들뜸 에너지  |
  | energy operator |   에너지 연산자 |
  | energy principle    |   에너지 원리  |
@@ -3108,8 +3112,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | epitaxy |   켜쌓기 |
  | epithermal neutron  |   고열 중성자  |
  | epoxy   |   에폭시 |
-|   EPR |   이피아르 [= (1)electron paramagnetic resonance (2) Estein-Podolsky-Rosen]  |
-|   EPR correlation |   이피아르 상관 관계 [= Einstein-Podolsky-Rosen  crelation]  |
+ | EPR |   이피아르 [= (1)electron paramagnetic resonance (2) Estein-Podolsky-Rosen]  |
+ | EPR correlation |   이피아르 상관 관계 [= Einstein-Podolsky-Rosen  crelation]  |
  | equal-arm balance   |   양팔 저울   |
  | equality    |   (1)같기, 동등 (2)등식 (3)등호   |
  | equation    |   방정식 |
@@ -3165,7 +3169,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | error function  |   오차 함수   |
  | error of measurement    |   측정 오차   |
  | Esaki diode |   에사키 다이오드    |
-|   ESCA    |   에스카 [= electron spectroscopy for chemical analysis]  | escape velocity |   탈출 속도, 이탈 속도    |
+ | ESCA    |   에스카 [= electron spectroscopy for chemical analysis]  |
+ | escape velocity |   탈출 속도, 이탈 속도    |
  | ESR |   이에스아르 [= electron spin resonance]   |
  | essential singularity   |   근본 특이성, 진성 특이점  |
  | esu |   이에스유「단위」 [= electrostatic unit] |
@@ -3185,7 +3190,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Euler's top |   오일러 팽이  |
  | eutectic    |   공융- |
  | eutectic point  |   공융점 |
-|   EUV radiation   |   이유브이 [= extreme ultraviolet radiation]  복  |
+ | EUV radiation   |   이유브이 [= extreme ultraviolet radiation]  복  |
  | eV  |   이브이 [= electron volt]   |
  | evanescent wave |   스러지는 파(동), 에버네센트 파(동)   |
  | evaporation |   증발, 기화  |
@@ -3208,7 +3213,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Ewald-Kornfeld method   |   에발트∙콘펠트 방법  |
  | exact differential  |   완전 미분   |
  | exact differential equation |   완전 미분 방정식   |
-|   EXAFS   |   엑사프스 [= extended x-ray absorption fine structure]    | excess  |   과잉  |
+ | EXAFS   |   엑사프스 [= extended x-ray absorption fine structure]    |
+ | excess  |   과잉  |
  | excess electron |   과잉 전자   |
  | excess reactivity   |   과잉 반응도  |
  | exchange    |   바꿈,  교환 |
@@ -3279,7 +3285,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | exposure time   |   노출 시간   |
  | extended dislocation    |   확장(된) 어긋나기  |
  | extended state  |   확장 상태   |
-|   extended x-ray absorption fine structure    |   광역 엑스선 흡수 미세  구    |
+ | extended x-ray absorption fine structure    |   광역 엑스선 흡수 미세  구    |
  | extended zone scheme    |   확장 영역 방식    |
  | extensive variable  |   크기 변수   |
  | exterior derivative |   외미분, 바깥 미분  |
@@ -3327,7 +3333,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | face centered cubic lattice |   면심 입방 격자, 면심 입방 살창  |
  | face-centered cubic crystal |   면심 입방 결정    |
  | face-centered lattice   |   면심 격자, 면심 살창    |
-|   face-centered orthorhombic lattice  |   면심 직방 격자, 면심 직방 살창   | factor  |   인자, 인수  |
+ | face-centered orthorhombic lattice  |   면심 직방 격자, 면심 직방 살창   |
+ | factor  |   인자, 인수  |
  | factorial   |   차례곱, 계승     |
  | factorization   |   인수 분해   |
  | factorization in prime factors  |   씨인수 분해, 소인수 분해  |
@@ -3353,7 +3360,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Faraday rotation    |   패러데이 회전, 패러데이 돌기    |
  | Faraday shield  |   페러데이 가림막    |
  | Faraday's law of electrolysis   |   패러데이(의) 전기 분해 법칙    |
-|   Faraday's law of electromagnetic induction  |   패러데이 전자기 유도  법 |
+ | Faraday's law of electromagnetic induction  |   패러데이 전자기 유도  법 |
  | far-infrared    |   (1)원적외- (2)원적외선 |
  | fast axis   |   빠른축 |
  | fast breeder    |   고속 증식로  |
@@ -3363,7 +3370,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | fast reactor    |   고속 원자로  |
  | fatigue |   피로  |
  | fault   |   결함  |
-|   fcc lattice |   에프시시 격자, 에프시시 살창 [= face-centered cubic  ltice]    |
+ | fcc lattice |   에프시시 격자, 에프시시 살창 [= face-centered cubic  ltice]    |
  | feedback    |   되먹임, 피드백    |
  | feedback circuit    |   되먹임 회로, 피드백 회로  |
  | feedback control    |   되먹임 제어, 피드백 제어  |
@@ -3574,7 +3581,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | fluxoid |   플럭소이드   |
  | flywheel    |   관성 바퀴   |
  | FMR |   에프엠아르 [= ferromagnetic resonance]   |
-|   FMRI    |   에프엠아르아이 [= functional magnetic resonance  iging]   |
+ | FMRI    |   에프엠아르아이 [= functional magnetic resonance  iging]   |
  | foam    |   거품  |
  | focal depth |   초점 깊이, 모임점 깊이   |
  | focal length    |   초점 거리, 모임점 거리   |
@@ -3584,7 +3591,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | focal radius    |   초점 반지름, 모임점 반지름     |
  | Fock space  |   폭 공간    |
  | focus   |   (1)초점, 모임점 (2)초점 맞추기, 모임점 맞추기   |
-|   focusing    |   (1)초점 조정, 모임점 맞추기 (2)초점 조정-, 모임점 맞추기-  (3 )    |
+ | focusing    |   (1)초점 조정, 모임점 맞추기 (2)초점 조정-, 모임점 맞추기-  (3 )    |
  | focusing action |   (1)초점 조정 작용 (2)모음 작용    |
  | focusing anode  |   모음 양극   |
  | focusing coil   |   모음 코일   |
@@ -3749,7 +3756,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | function generator  |   함수 발생기  |
  | function space  |   함수 공간   |
  | functional  |   범함수 |
-|   functional magnetic resonance imaging   |   기능성 자기 공명 영상(법)  [FRMI]    |
+ | functional magnetic resonance imaging   |   기능성 자기 공명 영상(법)  [FRMI]    |
  | fundamental |   (1)기본- (2)기본    |
  | fundamental interaction |   기본 상호작용, 기본 서로작용    |
  | fundamental particle    |   기본 입자, 기본 알갱이   |
@@ -3786,7 +3793,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | gamma function  |   감마 함수   |
  | gamma ray   |   감마선 |
  | gamma-ray dosimetry |   감마선량 측정 |
-|   Gamma-ray fluorescence spectroscopy |   감마선 형광 분광법, 감마선 반디빛  분 |
+ | Gamma-ray fluorescence spectroscopy |   감마선 형광 분광법, 감마선 반디빛  분 |
  | gamma-ray microscope    |   감마선 현미경 |
  | gamma-ray spectrometer  |   감마선 분광기 |
  | Gamow factor    |   가모 인자   |
@@ -3812,8 +3819,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | gas refractometer   |   기체 굴절계, 기체 꺽임 재개    |
  | gas refrigerator    |   기체 냉동기  |
  | gas thermometer |   기체 온도계  |
-|   gas thermometer of constant pressure    |   등압 기체 온도계, 정압 기체  온    |
-|   gas thermometer of constant volume  |   등적 기체 온도계, 정적 기체  온    |
+ | gas thermometer of constant pressure    |   등압 기체 온도계, 정압 기체  온    |
+ | gas thermometer of constant volume  |   등적 기체 온도계, 정적 기체  온    |
  | gas turbine |   가스 터빈   |
  | gas X-ray tube  |   기체 엑스선관 |
  | gas-cooled reactor  |   기체 냉각 장치    |
@@ -3876,7 +3883,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | generator   |   (1)발생기 (2)발전기 (3)생성원    |
  | geocentric coordinates  |   지구 중심 좌표, 지구 중심 자리표 |
  | geocentric motion   |   지구 중심 운동    |
-|   geocentric rectangular coordinates  |   지구 중심 직교 좌표, 지구 중심  직자리표   |
+ | geocentric rectangular coordinates  |   지구 중심 직교 좌표, 지구 중심  직자리표   |
  | geocentric theory   |   지구 중심설, 천동설 |
  | geodesic    |   지름길     |
  | geodesic distance   |   지름길 거리  |
@@ -3922,7 +3929,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Gibbs-Helmholtz equation    |   기브스∙헬름홀츠 방정식    |
  | giga    |   기가[= 109]   |
  | gilbertcgs  |   길버트 전자 단위 [= Gb cgs]    |
-|   GIM mechanism   |   지아이엠 메커니즘 [= Glashow-Iliopoulos-Maiani  mhanism]   |
+ | GIM mechanism   |   지아이엠 메커니즘 [= Glashow-Iliopoulos-Maiani  mhanism]   |
  | Ginzburg-Landau theory  |   긴즈부르크∙란다우 이론    |
  | glancing angle  |   (1)스침각 (2)여입사각  |
  | glare   |   눈부심 |
@@ -4098,7 +4105,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Hamiltonian |   해밀토니언   |
  | Hamiltonian operator    |   해밀토니언 연산자   |
  | Hamilton-Jacobi theory  |   해밀턴∙야코비 이론  |
-|   Hamilton's canonical equation   |   해밀턴 바른틀 방정식, 해밀턴 정준  방     |
+ | Hamilton's canonical equation   |   해밀턴 바른틀 방정식, 해밀턴 정준  방     |
  | Hamilton's equations of motion  |   해밀턴 운동 방정식  |
  | Hamilton's function |   해밀턴 함수  |
  | Hamilton's principle    |   해밀턴 원리  |
@@ -4142,11 +4149,12 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Harris criterion    |   해리스 기준  |
  | Harris instability  |   해리스 불안정성    |
  | Harrison construction   |   해리슨 작도(법)   |
-|   Hartree-Fock approximation  |   하트리∙폭 근사(법), 하트리∙폭 어림(법)     | Hartree-Fock method |   하트리∙폭 방법    |
+ | Hartree-Fock approximation  |   하트리∙폭 근사(법), 하트리∙폭 어림(법)     |
+ | Hartree-Fock method |   하트리∙폭 방법    |
  | Hartree's method    |   하트리 방법  |
  | Haynes-Shockley technique   |   헤인즈∙쇼클리 기법  |
  | H-bomb  |   수소 폭탄   |
-|   hcp structure   |   에이치시피 구조 [= hexagonal close-packed  sucture]   |
+ | hcp structure   |   에이치시피 구조 [= hexagonal close-packed  sucture]   |
  | head phone  |   헤드폰 |
  | head-on collision   |   정면 충돌, 바로 부딪침   |
  | healing length  |   치유 길이   |
@@ -4155,8 +4163,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | heat balance    |   열평형 |
  | heat bath   |   열저장체    |
  | heat capacity   |   열용량, 열들이    |
-|   heat capacity at constant pressure  |   일정 압력 열용량, 일정 압력  열    |
-|   heat capacity at constant volume    |   일정 부피 열용량, 일정 부피  열    |
+ | heat capacity at constant pressure  |   일정 압력 열용량, 일정 압력  열    |
+ | heat capacity at constant volume    |   일정 부피 열용량, 일정 부피  열    |
  | heat coil   |   열코일 |
  | heat conduction |   열전도 |
  | heat conduction calorimeter |   열전도 열량계 |
@@ -4996,7 +5004,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | intraband   |   띠내- |
  | intrinsic angular momentum  |   고유 각운동량 |
  | intrinsic carrier   |   고유 운반자, 고유 나르개  |
-|   intrinsic carrier concentration |   고유 운반자 농도, 고유 나르개 농도     | intrinsic coherent length   |   고유 결맞음 길이   |
+ | intrinsic carrier concentration |   고유 운반자 농도, 고유 나르개 농도     |
+ | intrinsic coherent length   |   고유 결맞음 길이   |
  | intrinsic conduction    |   고유 전도   |
  | intrinsic conductivity  |   고유 전도도  |
  | intrinsic energy    |   고유 에너지  |
@@ -5029,7 +5038,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | inverse operation   |   역연산, 거꿀 연산  |
  | inverse operator    |   역연산자, 거꿀 연산자    |
  | inverse osmosis |   역삼투 (현상)    |
-|   inverse polarization    |   (1)역편극, 거꿀 극쏠림 (2)역편광 (3)역편향     | inverse problem |   역문제, 거꿀 물음  |
+ | inverse polarization    |   (1)역편극, 거꿀 극쏠림 (2)역편광 (3)역편향     | 
+ | inverse problem |   역문제, 거꿀 물음  |
  | inverse reaction    |   역반응, 거꿀 반응  |
  | inverse scattering transform    |   역산란 변환, 거꿀 산란 변환    |
  | inverse spinel  |   역스피넬, 거꿀 스피넬    |
@@ -5130,7 +5140,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | irreducible |   기약-, 못줄이는,  |
  | irreducible element |   기약 요소, 못줄이는 요소  |
  | irreducible fraction    |   기약 분수, 못줄이는 분수  |
-|   irreducible fractional expression   |   기약 분수식, 못줄이는 분수식     | irreducible graph   |   기약 그래프, 못줄이는 그래프    |
+ | irreducible fractional expression   |   기약 분수식, 못줄이는 분수식     |
+ | irreducible graph   |   기약 그래프, 못줄이는 그래프    |
  | irreducible polynomial  |   기약 다항식, 못줄이는 다항식    |
  | irreducible representation  |   기약 표현, 못줄이는 표현  |
  | irreducible tensor  |   기약 텐서, 못줄이는 텐서  |
@@ -5820,7 +5831,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | linear amplifier    |   선형 증폭기  |
  | linear circuit  |   선형 회로   |
  | linear combination  |   (1)선형 결합 (2)일차 결합   |
-|   linear combination of atomic orbirtals  |   원자 궤도 함수(의) 선형  결[= LCAO]  |
+ | linear combination of atomic orbirtals  |   원자 궤도 함수(의) 선형  결[= LCAO]  |
  | linear correlation  |   선형 상관 관계    |
  | linear density  |   선밀도 |
  | linear dependence   |   (1)선형 종속 (2)일차 의존   |
@@ -5834,7 +5845,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | linear function |   (1)선형 함수 (2)일차 함수   |
  | linear functional   |   (1)선형 범함수 (2)일차 범함수 |
  | linear harmonic oscillator  |   선형 조화 진동자, 선형 조화 떨개 |
-|   linear homogeneous equation |   (1)선형 동차 방정식 (2)일차 동차 방정식    | linear independence |   선형 독립   |
+ | linear homogeneous equation |   (1)선형 동차 방정식 (2)일차 동차 방정식    | 
+ | linear independence |   선형 독립   |
  | linear inequality   |   일차 부등식  |
  | linear integrated circuit   |   선형 집적 회로    |
  | linear mapping  |   선형 사상, 선형 본뜨기   |
@@ -5914,12 +5926,13 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | local invariance    |   한곳 불변(성), 국소 불변(성)  |
  | local potential |   한곳 퍼텐셜, 국소 퍼텐셜  |
  | local symmetry  |   한곳 대칭(성), 국소 대칭(성)  |
-|   local thermodynamic equilibrium |   한곳 열역학 비김, 국소 열역학 평형     | local time  |   지방시 |
+ | local thermodynamic equilibrium |   한곳 열역학 비김, 국소 열역학 평형     | 
+ | local time  |   지방시 |
  | locality    |   한곳성, 국소성    |
  | localization    |   한곳 모임, 국소화  |
  | localized impact    |   한곳 충격,국소 충격     |
  | localized moment    |   한곳 모멘트, 국소 모멘트  |
-|   localized phonon mode   |   한곳 포논 모드, 국소 포논 모드, 국소 소리 양자  모|
+ | localized phonon mode   |   한곳 포논 모드, 국소 포논 모드, 국소 소리 양자  모|
  | localized state |   한곳 상태, 국소 상태    |
  | locked-phase source |   위상 고정 샘 |
  | locus   |   자취, 궤적  |
@@ -6342,7 +6355,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | mean solar day  |   평균 태양일  |
  | mean solar year |   평균 태양년  |
  | mean specific heat  |   평균 비열, 평균 견줌열   |
-|   mean spherical approximation    |   평균 구형 근사(법), 평균 공어림(법)   | mean square deviation   |   평균 제곱 편차    |
+|   mean spherical approximation    |   평균 구형 근사(법), 평균 공어림(법)   | 
+ | mean square deviation   |   평균 제곱 편차    |
  | mean square fluctuation |   평균 제곱 요동    |
  | mean square radius  |   평균 제곱 반지름   |
  | mean square velocity    |   평균 제곱 속도    |
@@ -6621,7 +6635,9 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | molecular field |   분자장, 분자 마당  |
  | molecular field theory  |   분자장 이론, 분자 마당 이론    |
  | molecular force |   분자힘, 분자력    |
-|   molecular heat at constant pressure |   일정 압력 분자열, 정압 분자열    |   molecular heat at constant volume   |   일정 부피 분자열, 정적 분자열    | molecular kinetic energy    |   분자 운동 에너지   |
+ | molecular heat at constant pressure |   일정 압력 분자열, 정압 분자열    |   
+ | molecular heat at constant volume   |   일정 부피 분자열, 정적 분자열    |
+ | molecular kinetic energy    |   분자 운동 에너지   |
  | molecular kinetic theory    |   분자 운동론  |
  | molecular laser |   분자 레이저  |
  | molecular mass  |   분자 질량   |
@@ -7007,7 +7023,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | nonradiative process    |   비복사 과정  |
  | nonradiative transition |   비복사 전이  |
  | nonrationalized unit system |   비유리화 단위계    |
-|   nonrelativistic approximation   |   비상대론(적) 근사, 비상대론(적) 어림   | nonrelativistic kinematics  |   비상대론(적) 운동 관계(식)    |
+|   nonrelativistic approximation   |   비상대론(적) 근사, 비상대론(적) 어림   | 
+ | nonrelativistic kinematics  |   비상대론(적) 운동 관계(식)    |
  | nonrelativistic mechanics   |   비상대론(적) 역학  |
  | nonrelativistic particle    |   비상대론(적) 입자  |
  | nonrelativistic quantum mechanics   |   비상대론(적) 양자역학    |
@@ -7036,7 +7053,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | normal incidence    |   수직 입사   |
  | normal liquid   |   정상 액체   |
  | normal mode |   정규 모드, 표준 모드    |
-|   normal mode of vibration    |   진동(의) 정규 모드, 진동(의) 표준 모드     | normal North pole   |   표준 북극   |
+ | normal mode of vibration    |   진동(의) 정규 모드, 진동(의) 표준 모드     | 
+ | normal North pole   |   표준 북극   |
  | normal n-p interaction  |   정상 엔∙피 상호작용, 정상 엔∙피 서로작용    |
  | normal order    |   표준 순서   |
  | normal ordered product  |   표준 순서곱  |
@@ -7580,10 +7598,11 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | parallelopiped  |   평행 육면체  |
  | parallel-plate laser    |   평행판 레이저 |
  | parallel-plate waveguide    |   평행판 파동 길잡이  |
-|   parallel-slit interferometer    |   평행 슬릿 간섭계, 평행 실틈 간섭계     | parallel-tuned circuit  |   병령 동조 회로    |
+ | parallel-slit interferometer    |   평행 슬릿 간섭계, 평행 실틈 간섭계     | 
+ |parallel-tuned circuit  |   병령 동조 회로    |
  | paramagnetic    |   상자성-    |
  | paramagnetic amplifier  |   상자성 증폭기 [~ maser]   |
-|   paramagnetic cooling    |   상자성 냉각 [~ adiabatic  dagnetization]    |
+ | paramagnetic cooling    |   상자성 냉각 [~ adiabatic  dagnetization]    |
  | paramagnetic crystal    |   상자성 결정  |
  | paramagnetic Faraday effect |   상자성 패러데이 효과 |
  | paramagnetic material   |   상자성 물질  |
@@ -9367,7 +9386,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Ritz formula    |   리츠 공식   |
  | Ritz's combination principle    |   리츠 결합 원리    |
  | Ritz's method   |   리츠 방법   |
-|   RKKY interaction    |   아르케이케이와이 상호작용, 아르케이케이와이 서로작용  [Ruderman-Kittel-Kasuya-Yosida interaction]  |
+|   RKKY interaction    |   아르케이케이와이 상호작용,\\ 아르케이케이와이 서로작용  [Ruderman-Kittel-Kasuya-Yosida interaction]  |
  | rms |   아르엠에스 [= root mean square]  |
  | Robertson-Walker solution   |   로버트슨∙워커 풀이, 로버트슨∙워커 해   |
  | Rochelle salt   |   로셸 염    |
@@ -9631,7 +9650,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | second  |   초   |
  | second harmonic |   (1)두배 진동(파) (2)두배 진동음   |
  | second law of motion    |   운동(의) 제이 법칙 |
-|   second law of thermodynamics    |   열역학 제이 법칙, 열역학 둘째 법칙     | second perpetual mobile |   제이종 영구 기관   |
+ | second law of thermodynamics    |   열역학 제이 법칙, 열역학 둘째 법칙     | 
+ | second perpetual mobile |   제이종 영구 기관   |
  | second quantization |   이차 양자화, 둘째 양자화  |
  | second sound    |   제이종 음파, 둘째 소리   |
  | secondary battery   |   이차 전지   |
@@ -9681,7 +9701,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | selective effect    |   선택 효과   |
  | selective excitation    |   선택 들뜸   |
  | selective permeability  |   선택 투과(성)    |
-|   selective photoelectric effect  |   선택 광전 효과, 선택 빛전자 효과      | selective radiator  |   선택 복사체  |
+ | selective photoelectric effect  |   선택 광전 효과, 선택 빛전자 효과      | 
+ | selective radiator  |   선택 복사체  |
  | selective reaction  |   선택 반응   |
  | selective reflection    |   선택 반사   |
  | selective scattering    |   선택 산란   |
@@ -10585,7 +10606,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Stirling engine |   스털링 엔진  |
  | Stirling's formula  |   스털링 공식  |
  | stirrer |   젓개  |
-|   STM |   에스티엠, 주사 터널링 현미경 [= scanning tunneling microscope]   | stochastic  |   확률(적)-, 추계(적)-  |
+ | STM |   에스티엠, 주사 터널링 현미경 [= scanning tunneling microscope]   | 
+ | stochastic  |   확률(적)-, 추계(적)-  |
  | stochastic dynamics |   확률(적) 동역학   |
  | stochastic model    |   확률 모형, 추계(적) 모형 |
  | stochastic paper    |   확률 모눈종이, 추계 모눈종이    |
@@ -10983,7 +11005,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | temperature radiation   |   온도 복사   |
  | temperature resistance coefficient  |   온도 저항 계수    |
  | temperature scale   |   온도 눈금   |
-|   temperature-inversion phenomenon    |   온도 뒤집힘 현상, 온도 반전 현상  | tempering   |   뜨임, 되담금질    |
+ | temperature-inversion phenomenon    |   온도 뒤집힘 현상, 온도 반전 현상  | 
+ | tempering   |   뜨임, 되담금질    |
  | temporal coherence  |   시간 결맞음  |
  | temporary magnet    |   일시 자석   |
  | tensile force   |   (인)장력   |
@@ -11600,7 +11623,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | two-fluid model |   이유체 모형  |
  | two-level system    |   이준위계    |
  | two-particle wave function  |   이체 파동 함수, 두입자 파동 함수 |
-|   two-photon absorption spectroscopy  |   이광자 흡수 분광법, 두빛알 흡수  분  |
+ | two-photon absorption spectroscopy  |   이광자 흡수 분광법, 두빛알 흡수  분  |
  | two-photon process  |   이광자 과정, 두빛알 과정  |
  | two-scale-factor universality   |   두눈금 인자 보편성  |
  | two-sided hypothesis    |   양측 가설   |
@@ -11637,7 +11660,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | ultrasound  |   초음파 |
  | ultraviolet |   자외선     |
  | ultraviolet absorption  |   자외선 흡수  |
-|   ultraviolet absorption spectrophotometry    |   자외선 흡수 분광  사   |
+ | ultraviolet absorption spectrophotometry    |   자외선 흡수 분광  사   |
  | ultraviolet catastrophe |   자외선 파국  |
  | ultraviolet divergence  |   자외선 발산  |
  | ultraviolet light   |   자외선빛    |
@@ -11712,7 +11735,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | universal amplitude ratio   |   보편 진폭비(율)   |
  | universal conductance fluctuation   |   보편 전도율 요동   |
  | universal constant  |   보편 상수   |
-|   universal Fermi interaction |   보편 페르미 상호작용, 보편 페르미  서용    |
+ | universal Fermi interaction |   보편 페르미 상호작용, 보편 페르미  서용    |
  | universal gas constant  |   보편 기체 상수    |
  | universal gravitation   |   만유인력    |
  | universal gravitation constant  |   만유인력 상수 |
@@ -11796,7 +11819,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Van Allen belt  |   밴앨렌 대   |
  | Van de Graaff accelerator   |   밴더그래프 가속기   |
  | Van der Pol oscillator  |   판데르폴 진동자, 반데르폴 떨개   |
-|   van der Waals' critical constant    |   판데르발스 임계 상수, 판데르발스  고상수    |
+ | van der Waals' critical constant    |   판데르발스 임계 상수, 판데르발스  고상수    |
  | van der Waals' equation of state    |   판데르발스 상태 방정식    |
  | van der Waals' force    |   판데르발스 힘 |
  | van der Waals' gas  |   판데르발스 기체    |
@@ -11822,7 +11845,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | variable of state   |   상태 변수   |
  | variable resistor   |   가변 저항(기)    |
  | variable star   |   변광성 |
-|   variable waveguide attenuator   |   가변 파동 길잡이 감쇠기, 가변 도파관  감   |
+ | variable waveguide attenuator   |   가변 파동 길잡이 감쇠기, 가변 도파관  감   |
  | variable-range hopping  |   가변 범위 깡충 뛰기 |
  | variance    |   가변도 |
  | variation   |   (1)변화(량) (2)변분  |
@@ -11898,7 +11921,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | virial expansion    |   비리얼 전개  |
  | virial theorem  |   비리얼 정리  |
  | virtual body    |   허물체 |
-|   virtual crystal approximation   |   가상 결정 근사(법),  가상 결정 어림( 법  |
+ | virtual crystal approximation   |   가상 결정 근사(법),  가상 결정 어림( 법  |
  | virtual displacement    |   가상 변위, 가상 자리옮김  |
  | virtual focal point |   허초점 |
  | virtual ground  |   가상 접지   |
@@ -12089,7 +12112,8 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | welding |   용접, 녹여 붙임   |
  | welding flux    |   용접 선다발, 용접 선속   |
  | welding rod |   용접 막대   |
-|   Wentzel-Kramers-Brillouin method    |   벤첼·크라머르스·브릴루앙 방법     | Werner band |   베르너 띠   |
+ | Wentzel-Kramers-Brillouin method    |   벤첼·크라머르스·브릴루앙 방법   | 
+ | Werner band |   베르너 띠   |
  | west longitude  |   서경  |
  | Weston standard cell    |   웨스턴 표준 전지   |
  | wet cell    |   습전지 |
@@ -12148,9 +12172,9 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | wire loop   |   쇠줄 고리   |
  | wiregrating |   도선 에돌이발, 도선 회절 격자   |
  | wireless    |   무선- |
-|   WKB approximation   |   더블유케이비 근사(법), 더블유케이비 어림(법) [=  Wtzel-Kramers-Brillouin approximation]  |
-|   WKB method  |   더블유케이비 방법 [= Wentzel-Kramers-Brillouin  mhod]  |
-|   WKB quantization rule   |   더블유케이비 양자화 규칙 [=  Wtzel-Kramers-Brillouin quantization rule]   |
+ | WKB approximation   |   더블유케이비 근사(법), 더블유케이비 어림(법) [=  Wtzel-Kramers-Brillouin approximation]  |
+ | WKB method  |   더블유케이비 방법 [= Wentzel-Kramers-Brillouin  mhod]  |
+ | WKB quantization rule   |   더블유케이비 양자화 규칙 [=  Wtzel-Kramers-Brillouin quantization rule]   |
  | Woods-Saxon potential   |   우즈·색슨 퍼텐셜   |
  | work    |   (1)일 (2)공작물 |
  | work function   |   일함수 |
@@ -12167,7 +12191,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | wrought iron    |   시우쇠 |
  | Wurtzite structure  |   우르짜이트 구조    |
  | X2-distribution |   엑스투선 분포 |
-|   XAFS    |   엑스에이에프에스, 엑스선 흡수 미세 구조 [= x-ray absorption  fe structure]  |
+ | XAFS    |   엑스에이에프에스, 엑스선 흡수 미세 구조 [= x-ray absorption  fe structure]  |
  | x-axis  |   엑스축 |
  | X-coefficient   |   엑스 계수   |
  | x-component |   엑스 성분   |
@@ -12180,7 +12204,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | X-ray   |   엑스선 |
  | x-ray absorption    |   엑스선 흡수  |
  | x-ray absorption fine structure |   엑스선 흡수 미세 구조    |
-|   x-ray absorption near-edge structure    |   엑스선 흡수 가까운 끝머리  구  |
+ | x-ray absorption near-edge structure    |   엑스선 흡수 가까운 끝머리  구  |
  | X-ray analysis  |   엑스선 분석  |
  | X-ray apparatus |   엑스선 장치  |
  | X-ray astronomy |   엑스선 천문학 |
@@ -12199,7 +12223,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | x-ray optics    |   엑스선 광학  |
  | x-ray photoelectron spectroscopy    |   엑스선 광전자 분광법 |
  | X-ray photon    |   엑스선 광자, 엑스선 빛알  |
-|   x-ray powder diffractometer |   엑스선 가루 에돌이 재개, 엑스선 분말 회절( 분계   |
+ | x-ray powder diffractometer |   엑스선 가루 에돌이 재개, 엑스선 분말 회절( 분계   |
  | X-ray powder method |   엑스선 분말법, 엑스선 가루 방법  |
  | X-ray scattering    |   엑스선 산란, 엑스선 흩뜨림     |
  | x-ray spectrograph  |   엑스선 분광 사진, 엑스선 분광 사진술(법)    |
@@ -12231,7 +12255,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | yoke    |   요크  |
  | Young's experiment  |   영(의) 실험 |
  | Young's modulus |   영 율 |
-|   Young's two-slit interference   |   영(의) 이중 슬릿 간섭, 영(의) 두실틈  간 |
+ | Young's two-slit interference   |   영(의) 이중 슬릿 간섭, 영(의) 두실틈  간 |
  | Y-process   |   와이 과정   |
  | yttrium-aluminum-garnet laser   |   이트륨·알루미늄·가닛 레이저 |
  | Yukawa force    |   유카와 힘   |
@@ -12248,7 +12272,7 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | Zeeman effect   |   제이만 효과  |
  | Zeeman energy   |   제이만 에너지 |
  | Zeeman splitting    |   제이만 갈라지기    |
-|   Zeeman triplet  |   (1)제이만 삼중항, 제이만 삼겹항 (2)제이만 삼중선, 제이만  삼 (3)제이만 삼중 상태    |
+ | Zeeman triplet  |   (1)제이만 삼중항, 제이만 삼겹항 (2)제이만 삼중선, 제이만  삼 (3)제이만 삼중 상태    |
  | Zener effect    |   제너 효과   |
  | Zener voltage   |   제너 전압   |
  | zenith  |   천정  |
@@ -12286,4 +12310,4 @@ see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
  | zone scheme |   영역 방식   |
  | zoom lens   |   줌렌즈 |
  | z-pinch |   제트 핀치   |
-|   Zweig forbidden decay   |   츠바이크 금지 붕괴  |
+ | Zweig forbidden decay   |   츠바이크 금지 붕괴  |

@@ -145,8 +145,16 @@ footer {
   border-width: 0;
   border-style: solid;
   padding: 20px 40px;
-  margin: auto; 
+  margin: auto;
+  table-layout: fixed;
+
 }
+/*
+table{    
+    table-layout:fixed;
+    width: 50%;
+}
+*/
 
 a, .as-link {
   text-decoration: none;
@@ -241,12 +249,12 @@ ul.posts .datetime {
   text-align: right; }
 
 section.post {
-  margin: 0 -60px;
+  margin: 0 0px;
   text-align: left;
   border-top: 0;
   padding: 0; }
   section.post > * {
-    padding: 0 60px; }
+    padding: 0 0px; }
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px;
     padding: 0; }
