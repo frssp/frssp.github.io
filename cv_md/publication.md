@@ -1,11 +1,14 @@
 # Publication
+
+1. MinJoong Kim, **Sunghyun Kim**, Dong Hoon Song, Se Kwon Oh, Kee Joo Chang, and Eun Ae Cho, **"Promotion of electrochemical oxygen evolution reaction by chemical coupling of cobalt to molybdenum carbide"** [Appl. Catal. B 227, 340 (2018)](https://doi.org/10.1016/j.apcatb.2018.01.051)
+
 1. Ji-Sang Park, **Sunghyun Kim**, Zijuan Xie, and Aron Walsh, **"Point defect engineering in thin-film solar cells"**, [Nat. Rev. Mat. 3, 194 (2018)](https://doi.org/10.1038/s41578-018-0026-7)
 
-1. MinJoong Kim, **Sunghyun Kim**, Dong Hoon Song, Se Kwon Oh, Kee Joo Chang, and Eun Ae Cho, **Promotion of electrochemical oxygen evolution reaction by chemical coupling of cobalt to molybdenum carbide** [Appl. Catal. B 227, 340 (2018)](https://doi.org/10.1016/j.apcatb.2018.01.051)
+1. Bartomeu Monserrat, Ji-Sang Park, **Sunghyun Kim** and Aron Walsh, **"Role of electron-phonon coupling and thermal expansion on band gaps, carrier mobility, and interfacial offsets in kesterite thin-film solar cells"**, [Appl. Phys. Lett. 112, 193903 (2018)](https://doi.org/10.1063/1.5028186)
 
-1. **Sunghyun Kim**, Ji-Sang Park, and Aron Walsh, **"Identification of Killer Defects in Kesterite Thin-Film Solar Cells"**, [ACS Energy Lett. 3 496 (2018)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b01313)
+1. **Sunghyun Kim**, Ji-Sang Park, and Aron Walsh, **"Identification of Killer Defects in Kesterite Thin-Film Solar Cells"**, [ACS Energy Lett. 3, 496 (2018)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b01313)
 
-1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **"Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors"** [Phys. Rev. Mat. 2 , 014602 (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602)	
+1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **"Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors"** [Phys. Rev. Mat. 2, 014602 (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602)	
 
 1. Woo Hyun Han, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **"Prediction of Green Phosphorus with Tunable Direct Band Gap and High Mobility"**, [J. Phys. Chem. Lett. 8, 4627(2017)](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02153)
 
@@ -22,6 +25,7 @@
 1.  Young Jun Oh, **Sunghyun Kim**, In-Ho Lee, Jooyoung Lee, and K. J. Chang, **"Direct band gap carbon superlattices with efficient optical transition"**, [Phys. Rev. B 93, 085201 (2016).](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.085201)
 
 1.  Young Jun Oh, In-Ho Lee, **Sunghyun Kim**, Jooyoung Lee, and K. J. Chang, **"Dipole-allowed direct band gap silicon superlattices"**, [Sci. Rep. 8, 18086 (2015).](http://dx.doi.org/10.1038/srep18086)
+
 1.  In-Ho Lee, Jooyoung Lee, Young Jun Oh, **Sunghyun Kim**, and K. J. Chang, **"Computational search for direct band gap silicon crystals"**, [Phys. Rev. B 90, 115209 (2014).](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.115209)
 
 1.  **Sunghyun Kim**, Ji-Sang Park, and K. J. Chang, **"Finite-size supercell correction scheme for charged defects in one-dimensional systems"**, [Phys. Rev. B 90, 085435 (2014).](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.085435)
