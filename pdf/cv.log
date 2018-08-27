@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.26)  4 JUL 2018 16:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.26)  27 AUG 2018 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,27 +613,27 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' will be
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' will be
 (Font)              scaled to size 20.74pt on input line 107.
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--109
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--109
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
 LaTeX Font Info:    Try loading font information for U+fontawesometwo on input 
-line 129.
+line 124.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 129.
+LaTeX Font Info:    Try loading font information for T1+zi4 on input line 124.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2016/12/29 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 10.0pt on input line 129.
+(Font)              scaled to size 10.0pt on input line 124.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `zi4' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -645,14 +645,21 @@ Package microtype Info: Character `textemdash ' is missing
 (microtype)             in font `T1/zi4/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-<images/orcid_16x16.png, id=27, 16.06pt x 16.06pt>
+<images/google_scholar.png, id=29, 13.55063pt x 12.7978pt>
+File: images/google_scholar.png Graphic file (type png)
+
+<use images/google_scholar.png>
+Package pdftex.def Info: images/google_scholar.png used on input line 125.
+(pdftex.def)             Requested size: 7.56389pt x 7.1435pt.
+
+<images/orcid_16x16.png, id=34, 16.06pt x 16.06pt>
 File: images/orcid_16x16.png Graphic file (type png)
 
 <use images/orcid_16x16.png>
-Package pdftex.def Info: images/orcid_16x16.png used on input line 134.
+Package pdftex.def Info: images/orcid_16x16.png used on input line 130.
 (pdftex.def)             Requested size: 7.1436pt x 7.1435pt.
  (./_tex/interest.tex
-Overfull \hbox (24.98424pt too wide) in paragraph at lines 112--2
+Overfull \hbox (24.98424pt too wide) in paragraph at lines 111--2
 [][]     []
  []
 
@@ -680,14 +687,14 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' will be
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 9.
 ) (./_tex/experience.tex)
-(./_tex/publication.tex
+(./_tex/extracurricular.tex) (./_tex/publication.tex
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 31.
+(Font)              scaled to size 7.0pt on input line 18.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/orcid_16x16.png>]
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 39.
+s/google_scholar.png> <./images/orcid_16x16.png>]
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 52.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pplx.fd
@@ -696,25 +703,25 @@ File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 39.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 52.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 39.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 52.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 39.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 52.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 39.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 52.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -725,48 +732,41 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
 
 (pdf/cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
- 11232 strings out of 492995
- 171731 string characters out of 6132703
- 292522 words of memory out of 5000000
- 14526 multiletter control sequences out of 15000+600000
- 59490 words of font info for 75 fonts, out of 8000000 for 9000
+ 11251 strings out of 492995
+ 172154 string characters out of 6132703
+ 292568 words of memory out of 5000000
+ 14532 multiletter control sequences out of 15000+600000
+ 60250 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,11n,43p,248b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsection*.5} has been referenced but does not e
-xist, replaced by a fixed one
-
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
-live/2017/texmf-dist/fonts/enc/dvips/roboto/rbto_idpkzy.enc}{/usr/local/texlive
-/2017/texmf-dist/fonts/enc/dvips/roboto/rbto_bergpl.enc}{/usr/local/texlive/201
-7/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}{/usr/local/texlive/2017/t
-exmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on pdf/cv.pdf (2 pages, 122166 bytes).
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2017/texmf-dist/fonts/enc/dvips/roboto/rbto_idpkzy.enc}{/usr/local/texli
+ve/2017/texmf-dist/fonts/enc/dvips/roboto/rbto_bergpl.enc}{/usr/local/texlive/2
+017/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}{/usr/local/texlive/2017
+/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on pdf/cv.pdf (2 pages, 123740 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 15406 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 15419 words of extra memory for PDF output out of 17280 (max. 10000000)
 

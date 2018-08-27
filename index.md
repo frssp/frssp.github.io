@@ -8,6 +8,7 @@ use_math: true
 {% include_relative cv_md/skill.md %} 
 {% include_relative cv_md/education.md %} 
 {% include_relative cv_md/experience.md %} 
+{% include_relative cv_md/extracurricular.md %} 
 {% include_relative cv_md/publication.md %} 
 <!-- 
 {% include_relative cv_md/award.md %} 
