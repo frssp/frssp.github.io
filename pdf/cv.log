@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.26)  27 AUG 2018 19:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.26)  25 OCT 2018 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -689,12 +689,12 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' will be
 ) (./_tex/experience.tex)
 (./_tex/extracurricular.tex) (./_tex/publication.tex
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 18.
+(Font)              scaled to size 7.0pt on input line 19.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
 s/google_scholar.png> <./images/orcid_16x16.png>]
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 52.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 58.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pplx.fd
@@ -703,25 +703,25 @@ File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 52.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 58.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 52.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 58.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 52.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 58.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 52.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 58.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -744,8 +744,8 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
- 11251 strings out of 492995
- 172154 string characters out of 6132703
+ 11252 strings out of 492995
+ 172161 string characters out of 6132703
  292568 words of memory out of 5000000
  14532 multiletter control sequences out of 15000+600000
  60250 words of font info for 79 fonts, out of 8000000 for 9000
@@ -763,10 +763,10 @@ cal/texlive/2017/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb></usr/l
 ocal/texlive/2017/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb></usr
 /local/texlive/2017/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/loc
 al/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on pdf/cv.pdf (2 pages, 123740 bytes).
+Output written on pdf/cv.pdf (2 pages, 124580 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
+ 143 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  15419 words of extra memory for PDF output out of 17280 (max. 10000000)
 
