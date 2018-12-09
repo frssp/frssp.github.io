@@ -1,5 +1,10 @@
 # Publication
 
+1. **Sunghyun Kim**, Ji-Sang Park, Samatha N. Hood, and Aron Walsh, **"Lone-pair effect on carrier capture in $\mathrm{Cu_2ZnSnS_2}~$
+ solar cells"** [arXiv:1810.11259](https://arxiv.org/abs/1810.11259)
+
+1. Ji-Sang Park, **Sunghyun Kim**, Samatha N. Hood, and Aron Walsh, **"Open-circuit voltage deficit in $\mathrm{Cu_2ZnSnS_2}~$ solar cells by interface bandgap narrowing"** [Appl. Phys. Lett. 113, 212103 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5063793)
+
 1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **"Stability and electronic properties of planar defects in quaternary I2-II-IV-VI4 semiconductors"** [J. Appl. Phys. 124 165705 (2018)](https://doi.org/10.1063/1.5053424)
 
 1. MinJoong Kim, **Sunghyun Kim**, Dong Hoon Song, Se Kwon Oh, Kee Joo Chang, and Eun Ae Cho, **"Promotion of electrochemical oxygen evolution reaction by chemical coupling of cobalt to molybdenum carbide"** [Appl. Catal. B 227, 340 (2018)](https://doi.org/10.1016/j.apcatb.2018.01.051)
