@@ -1,7 +1,7 @@
 ---
 title: English-Korean Glossary of Physics
 ---
-see [한국물리학회](http://www.kps.or.kr/home/kor/morgue/dic/)
+see [한국물리학회](http://www.kps.or.kr/1411)
 
  | 영어 | 우리말 |
  | --- |  --- |
