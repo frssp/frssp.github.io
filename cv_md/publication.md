@@ -1,9 +1,8 @@
 # Publication
 
-1. **Sunghyun Kim**, Ji-Sang Park, Samatha N. Hood, and Aron Walsh, **"Lone-pair effect on carrier capture in $\mathrm{Cu_2ZnSnS_2}~$
- solar cells"** [arXiv:1810.11259](https://arxiv.org/abs/1810.11259)
+1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **"Lone-pair effect on carrier capture in $\mathrm{Cu_{2}ZnSnS_{4}}$ solar cells"** [arXiv:1810.11259](https://arxiv.org/abs/1810.11259)
 
-1. Ji-Sang Park, **Sunghyun Kim**, Samatha N. Hood, and Aron Walsh, **"Open-circuit voltage deficit in $\mathrm{Cu_2ZnSnS_2}~$ solar cells by interface bandgap narrowing"** [Appl. Phys. Lett. 113, 212103 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5063793)
+1. Ji-Sang Park, **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **"Open-circuit voltage deficit in $\mathrm{Cu_{2}ZnSnS_{4}}$ solar cells by interface bandgap narrowing"** [Appl. Phys. Lett. 113, 212103 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5063793)
 
 1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **"Stability and electronic properties of planar defects in quaternary I2-II-IV-VI4 semiconductors"** [J. Appl. Phys. 124 165705 (2018)](https://doi.org/10.1063/1.5053424)
 
@@ -21,7 +20,7 @@
 
 1.   **Sunghyun Kim**, Woo Hyun Han, In-Ho Lee, and K. J. Chang, **"Discovery of Half-Metallic Two-Dimensional Boron Kagome Lattice through Material Design"**,  [Scientific Reports 7, 7279 (2017)](https://www.nature.com/articles/s41598-017-07518-9) 
 
-1.   Ha-Jun Sung, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **"Semimetallic carbon allotrope with topological nodal line in mixed sp$^3~$-sp$^2~$  bonding networks"** [NPG Asia Materials 9, e361 (2017)](http://www.nature.com/am/journal/v9/n3/full/am201726a.html)
+1.   Ha-Jun Sung, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **"Semimetallic carbon allotrope with topological nodal line in mixed sp$^3$-sp$^2$  bonding networks"** [NPG Asia Materials 9, e361 (2017)](http://www.nature.com/am/journal/v9/n3/full/am201726a.html)
 
 1.   Woo Hyun Han, Young Jun Oh, Duk-Hyun Choe, **Sunghyun Kim**, In-Ho Lee and Kee Joo Chang, **"Three-dimensional buckled honeycomb boron lattice with vacancies as an intermediate phase on the transition pathway from $\alpha$-B to $\gamma$-B"** [NPG Asia Materials 9, e400 (2017)](http://www.nature.com/am/journal/v9/n7/full/am201798a.html)
 
