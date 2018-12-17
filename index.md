@@ -3,6 +3,7 @@ layout: page
 <!-- title: Curriculum Vitae -->
 use_math: true
 ---
+{% include_relative cv_md/cv.md %} 
 {% include_relative cv_md/contact.md %} 
 {% include_relative cv_md/interest.md %} 
 {% include_relative cv_md/skill.md %} 
