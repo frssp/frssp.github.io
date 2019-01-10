@@ -1,6 +1,7 @@
 .highlight { font-size: 13px; }
-div.highlight, div.highlight code, div.highlight pre  { background: #29281e; }
-div.highlight code { padding: 0; }
+/* div.highlight, div.highlight code, div.highlight pre  { background: #111111; } */
+div.highlight code, div.highlight pre  { background: #DDDDDD; }
+div.highlight code { padding: 1px 3px 3px 0px; }
 div.highlight .c { color: #75715e } /* Comment */
 div.highlight .err { color: #960050; background-color: #1e0010 } /* Error */
 div.highlight .k { color: #66d9ef } /* Keyword */

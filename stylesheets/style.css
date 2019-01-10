@@ -266,6 +266,12 @@ section.post {
     section.post h1 .date {
       color: #d0d0d0;
       font-size: 15px; }
+  section.post h2 {
+    // text-transform: uppercase;
+    text-align: left;
+    line-height: 1.5em;
+    font-size: 20px;
+    margin-bottom: 5px; }
   section.post iframe {
     width: 100%; }
   section.post iframe, section.post img {
@@ -323,7 +329,7 @@ section.post, section > p {
     margin-bottom: 5px; }
 
 .highlight {
-  margin: 0;
+  margin: 2;
   padding: 0; }
 
 pre {
@@ -337,8 +343,7 @@ pre {
 
 code {
   font-size: 13px;
-  color: #eee;
-  background: #39382e;
+  background: #DDDDDD;
   padding: 2px 4px 3px;
   border-radius: 2px;
   line-height: 1.3em;
