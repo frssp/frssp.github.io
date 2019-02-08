@@ -1,6 +1,6 @@
 # Publication
 
-1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **"Lone-pair effect on carrier capture in $\mathrm{Cu_{2}ZnSnS_{4}}$ solar cells"** [JMCA/doi:10.1039/c8ta10130b](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b)
+1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **"Lone-pair effect on carrier capture in $\mathrm{Cu_{2}ZnSnS_{4}}$ solar cells"** [J. Mater. Chem. A, 7, 2686 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b)
 
 1. Ji-Sang Park, **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **"Open-circuit voltage deficit in $\mathrm{Cu_{2}ZnSnS_{4}}$ solar cells by interface bandgap narrowing"** [Appl. Phys. Lett. 113, 212103 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5063793)
 
