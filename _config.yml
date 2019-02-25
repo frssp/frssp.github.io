@@ -14,6 +14,8 @@ links:
     external:     true
   - name:         Blog   
     url:          /post   
+  - name:         Link   
+    url:          /link   
   - name:         phys_kr
     url:          /phys_kr
     #  - name:         GitHub
