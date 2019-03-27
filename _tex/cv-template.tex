@@ -18,6 +18,9 @@
 \frenchspacing
 \usepackage[sfdefault]{roboto}
 \usepackage[T1]{fontenc}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsfonts}
 
 %%%------------------------------------------------------------------------
 %%% Metadata
@@ -75,6 +78,11 @@ Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK}
 %\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
 %\usepackage[T1]{fontenc}
 \renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+\renewcommand*{\mathrm}[1]{\mathsf{#1}}
+\usepackage{sansmath} % Enables turning on sans-serif math mode, and using other environments
+\sansmath % Enable sans-serif math for rest of document
+
+
 \usepackage{fontawesome}
 
 %%%------------------------------------------------------------------------
@@ -95,10 +103,10 @@ Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK}
 %%% The next line will put the date revised in footer of first page
 \rfoot{\scriptsize Current as of \today}
 
-\hfill\hfill\hfill
-\hfill\hfill\hfill
-\hfill\hfill\hfill
-\hfill\hfill\hfill
+% \hfill\hfill\hfill
+% \hfill\hfill\hfill
+% \hfill\hfill\hfill
+% \hfill\hfill\hfill
 
 %%%------------------------------------------------------------------------
 %%% Address and contact block
@@ -135,9 +143,10 @@ Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK}
 % \end{left}
 % \vskip 0.5in
 \input{_tex/interest}
-\input{_tex/skill}
+% \input{_tex/skill}
 \input{_tex/education}
 \input{_tex/experience}
 \input{_tex/extracurricular}
+\input{_tex/selected}
 \input{_tex/publication}
 \end{document}

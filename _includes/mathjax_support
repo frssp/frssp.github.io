@@ -1,6 +1,6 @@
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
-    jax: ["input/TeX","output/CommonHTML"],
+    jax: ["input/TeX","output/SVG"],
     TeX: {
       equationNumbers: {
         autoNumber: "AMS"
