@@ -1,5 +1,7 @@
 # Publications
 
+1. **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **"Anharmonic Lattice Relaxation during Non-radiative Carrier Capture"** [arXiv:1904.01348](https://arxiv.org/abs/1904.01348)
+
 1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **"Lone-pair effect on carrier capture in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells"** [J. Mater. Chem. A, 7, 2686 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b)
 
 1. Ji-Sang Park, **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **"Open-circuit voltage deficit in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells by interface bandgap narrowing"** [Appl. Phys. Lett. 113, 212103 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5063793)
