@@ -1,14 +1,14 @@
 # Publications
 
-1. **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Anharmonic Lattice Relaxation during Non-radiative Carrier Capture** [arXiv:1904.01348](https://arxiv.org/abs/1904.01348).
+1. **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Anharmonic Lattice Relaxation during Non-radiative Carrier Capture**, [arXiv:1904.01348](https://arxiv.org/abs/1904.01348).
 
-1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **Lone-pair effect on carrier capture in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells** [J. Mater. Chem. A, 7, 2686 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b).
+1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **Lone-pair effect on carrier capture in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells**, [J. Mater. Chem. A, 7, 2686 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b).
 
-1. Ji-Sang Park, **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Open-circuit voltage deficit in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells by interface bandgap narrowing** [Appl. Phys. Lett. 113, 212103 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5063793).
+1. Ji-Sang Park, **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Open-circuit voltage deficit in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells by interface bandgap narrowing**, [Appl. Phys. Lett. 113, 212103 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5063793).
 
-1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **Stability and electronic properties of planar defects in quaternary $\boldsymbol{\mathrm{I_2}}$-II-IV-$\boldsymbol{\mathrm{VI_4}}$ semiconductors** [J. Appl. Phys. 124 165705 (2018)](https://doi.org/10.1063/1.5053424).
+1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **Stability and electronic properties of planar defects in quaternary $\boldsymbol{\mathrm{I_2}}$-II-IV-$\boldsymbol{\mathrm{VI_4}}$ semiconductors**, [J. Appl. Phys. 124 165705 (2018)](https://doi.org/10.1063/1.5053424).
 
-1. MinJoong Kim, **Sunghyun Kim**, Dong Hoon Song, Se Kwon Oh, Kee Joo Chang, and Eun Ae Cho, **Promotion of electrochemical oxygen evolution reaction by chemical coupling of cobalt to molybdenum carbide** [Appl. Catal. B 227, 340 (2018)](https://doi.org/10.1016/j.apcatb.2018.01.051).
+1. MinJoong Kim, **Sunghyun Kim**, Dong Hoon Song, Se Kwon Oh, Kee Joo Chang, and Eun Ae Cho, **Promotion of electrochemical oxygen evolution reaction by chemical coupling of cobalt to molybdenum carbide**, [Appl. Catal. B 227, 340 (2018)](https://doi.org/10.1016/j.apcatb.2018.01.051).
 
 1. Ji-Sang Park, **Sunghyun Kim**, Zijuan Xie, and Aron Walsh, **Point defect engineering in thin-film solar cells**, [Nat. Rev. Mat. 3, 194 (2018)](https://doi.org/10.1038/s41578-018-0026-7).
 
