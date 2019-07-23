@@ -1,12 +1,12 @@
 # Publications
 
-1. **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Anharmonic Lattice Relaxation during Non-radiative Carrier Capture**, [arXiv:1904.01348](https://arxiv.org/abs/1904.01348).
+1. **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Anharmonic Lattice Relaxation during Non-radiative Carrier Capture**, [Phys. Rev. B 100, 041202(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.041202).
 
-1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **Lone-pair effect on carrier capture in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells**, [J. Mater. Chem. A, 7, 2686 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b).
+1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **Lone-pair effect on carrier capture in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells**, [J. Mater. Chem. A 7, 2686 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b).
 
 1. Ji-Sang Park, **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Open-circuit voltage deficit in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells by interface bandgap narrowing**, [Appl. Phys. Lett. 113, 212103 (2018)](https://aip.scitation.org/doi/abs/10.1063/1.5063793).
 
-1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **Stability and electronic properties of planar defects in quaternary $\boldsymbol{\mathrm{I_2}}$-II-IV-$\boldsymbol{\mathrm{VI_4}}$ semiconductors**, [J. Appl. Phys. 124 165705 (2018)](https://doi.org/10.1063/1.5053424).
+1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **Stability and electronic properties of planar defects in quaternary $\boldsymbol{\mathrm{I_2}}$-II-IV-$\boldsymbol{\mathrm{VI_4}}$ semiconductors**, [J. Appl. Phys. 124, 165705 (2018)](https://doi.org/10.1063/1.5053424).
 
 1. MinJoong Kim, **Sunghyun Kim**, Dong Hoon Song, Se Kwon Oh, Kee Joo Chang, and Eun Ae Cho, **Promotion of electrochemical oxygen evolution reaction by chemical coupling of cobalt to molybdenum carbide**, [Appl. Catal. B 227, 340 (2018)](https://doi.org/10.1016/j.apcatb.2018.01.051).
 
@@ -16,15 +16,15 @@
 
 1. **Sunghyun Kim**, Ji-Sang Park, and Aron Walsh, **Identification of Killer Defects in Kesterite Thin-Film Solar Cells**, [ACS Energy Lett. 3, 496 (2018)](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b01313).
 
-1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors** [Phys. Rev. Mat. 2, 014602 (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602).	
+1. Ji-Sang Park, **Sunghyun Kim**, and Aron Walsh, **Opposing effects of stacking faults and antisite domain boundaries on the conduction band edge in kesterite quaternary semiconductors**, [Phys. Rev. Mat. 2, 014602 (2018)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.014602).	
 
 1. Woo Hyun Han, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **Prediction of Green Phosphorus with Tunable Direct Band Gap and High Mobility**, [J. Phys. Chem. Lett. 8, 4627(2017)](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02153).
 
 1. **Sunghyun Kim**, Woo Hyun Han, In-Ho Lee, and K. J. Chang, **Boron Triangular Kagome Lattice with Half-Metallic Ferromagnetism**,  [Scientific Reports 7, 7279 (2017)](https://www.nature.com/articles/s41598-017-07518-9).
 
-1. Ha-Jun Sung, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **Semimetallic carbon allotrope with topological nodal line in mixed sp$\boldsymbol{\mathrm{^3}}$-sp$\boldsymbol{\mathrm{^2}}$  bonding networks** [NPG Asia Materials 9, e361 (2017)](http://www.nature.com/am/journal/v9/n3/full/am201726a.html).
+1. Ha-Jun Sung, **Sunghyun Kim**, In-Ho Lee, and K. J. Chang, **Semimetallic carbon allotrope with topological nodal line in mixed sp$\boldsymbol{\mathrm{^3}}$-sp$\boldsymbol{\mathrm{^2}}$  bonding networks**, [NPG Asia Materials 9, e361 (2017)](http://www.nature.com/am/journal/v9/n3/full/am201726a.html).
 
-1. Woo Hyun Han, Young Jun Oh, Duk-Hyun Choe, **Sunghyun Kim**, In-Ho Lee and Kee Joo Chang, **Three-dimensional buckled honeycomb boron lattice with vacancies as an intermediate phase on the transition pathway from $\boldsymbol{\mathrm{\alpha}}$-B to $\boldsymbol{\mathrm{\gamma}}$-B** [NPG Asia Materials 9, e400 (2017)](http://www.nature.com/am/journal/v9/n7/full/am201798a.html).
+1. Woo Hyun Han, Young Jun Oh, Duk-Hyun Choe, **Sunghyun Kim**, In-Ho Lee and Kee Joo Chang, **Three-dimensional buckled honeycomb boron lattice with vacancies as an intermediate phase on the transition pathway from $\boldsymbol{\mathrm{\alpha}}$-B to $\boldsymbol{\mathrm{\gamma}}$-B**, [NPG Asia Materials 9, e400 (2017)](http://www.nature.com/am/journal/v9/n7/full/am201798a.html).
 
 1. Elisabeth Pratidhina, **Sunghyun Kim**, and K. J. Chang, **Design of Dipole-Allowed Direct Band Gaps in Ge/Sn Core–Shell Nanowires**,  [J. Phys. Chem. C 120, 28169 (2016)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b08779).
 
