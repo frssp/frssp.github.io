@@ -1,5 +1,7 @@
 # Publications
 
+1. Ernest Pastor, Ji-Sang Park, Ludmilla Steier, **Sunghyun Kim**, Michael Grätzel, James R. Durrant, Aron Walsh & Artem A. Bakulin, **In situ observation of picosecond polaron self-localisation in α-Fe2O3 photoelectrochemical cells**, [Nat. Comm.  10, 3962 (2019)](https://doi.org/10.1038/s41467-019-11767-9).
+
 1. **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Anharmonic Lattice Relaxation during Non-radiative Carrier Capture**, [Phys. Rev. B 100, 041202(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.041202).
 
 1. **Sunghyun Kim**, Ji-Sang Park, Samantha N. Hood, and Aron Walsh, **Lone-pair effect on carrier capture in $\boldsymbol{\mathrm{Cu_{2}ZnSnS_{4}}}$ solar cells**, [J. Mater. Chem. A 7, 2686 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c8ta10130b).
