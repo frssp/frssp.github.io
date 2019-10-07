@@ -2,7 +2,7 @@
 
 1. Ernest Pastor, Ji-Sang Park, Ludmilla Steier, **Sunghyun Kim**, Michael Grätzel, James R. Durrant, Aron Walsh & Artem A. Bakulin, **In situ observation of picosecond polaron self-localisation in α-$\boldsymbol{\mathrm{Fe_2O_3}}$ photoelectrochemical cells**, [Nat. Comm.  10, 3962 (2019)](https://doi.org/10.1038/s41467-019-11767-9).
 
-1. Young-Kwang Jung,  Joaquín Calbo,  Ji-Sang Park,  Lucy D. Whalley,  **Sunghyun Kim** and  Aron Walsh, **Intrinsic doping limit and defect-assisted luminescence in $\boldsymbol{\mathrm{Cs_4PbBr_6}}$**, [J. Mater. Chem. A, Advance Article (2019)](https://doi.org/10.1039/C9TA06874K).
+1. Young-Kwang Jung,  Joaquín Calbo,  Ji-Sang Park,  Lucy D. Whalley,  **Sunghyun Kim** and  Aron Walsh, **Intrinsic doping limit and defect-assisted luminescence in $\boldsymbol{\mathrm{Cs_4PbBr_6}}$**, [J. Mater. Chem. A 7, 20254 (2019)](https://doi.org/10.1039/C9TA06874K).
 
 1. **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Anharmonic Lattice Relaxation during Non-radiative Carrier Capture**, [Phys. Rev. B 100, 041202(R) (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.041202).
 

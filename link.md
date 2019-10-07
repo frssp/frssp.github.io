@@ -12,3 +12,7 @@ title: Link
     - [Elements Handbook](http://www.knowledgedoor.com)
     
     - [MDAnalysis](https://www.mdanalysis.org)
+    
+    - [Atomic Energy Network](http://ann.atomistic.net)
+- ETC
+    - [SQlimt](http://sjbyrnes.com/sq.html)
