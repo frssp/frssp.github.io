@@ -10,7 +10,7 @@
 \usepackage{fancyhdr}
 \pagestyle{plain}
 \frenchspacing
-% \usepackage[sfdefault]{roboto}
+\usepackage[sfdefault]{roboto}
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures={TeX,Common}}
 
@@ -22,12 +22,11 @@
      BoldFont       = *-Bold,
      BoldItalicFont = *-BoldItalic,
     ]{Roboto}
-
+%
 \defaultfontfeatures{Extension = .otf}% adds .otf to end of path when font loaded without ext parameter e.g. \newfontfamily{\FA}{FontAwesome} > \newfontfamily{\FA}{FontAwesome.otf}
 \usepackage{fontawesome}
-\newfontfamily{\FA}{FontAwesome}
+% \newfontfamily{\FA}{FontAwesome}
 % \usepackage{sectsty}
-% \allsectionsfont{\arial}
 % \usepackage[T1]{fontenc}
 \usepackage{amssymb}
 \usepackage{amsmath}
@@ -35,12 +34,6 @@
 \usepackage{sansmath} % Enables turning on sans-serif math mode, and using other environments
 \sansmath % Enable sans-serif math for rest of document
 \renewcommand*{\mathrm}[1]{\mathsf{#1}}
-
-% \catcode`\(=\active
-% \gdef(#1){(\mathrm{#1})}
-
-
-
 
 %%%------------------------------------------------------------------------
 %%% Metadata
@@ -111,7 +104,7 @@ Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK}
 %%%------------------------------------------------------------------------
 
 %%% The next line will put the date revised in footer of first page
-\rfoot{\scriptsize Current as of \today}
+% \rfoot{\scriptsize Current as of \today}
 
 %%%------------------------------------------------------------------------
 %%% Address and contact block
@@ -134,16 +127,13 @@ Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK}
 % \begin{left}
 \begin{minipage}[t]{3.1in}
   % \flushleft %\footnotesize
-  % \faEnvelopeO\texttt{ \href{mailto:\myemail}{\myemail}} \\
+  % \faEnvelopeO{ \href{mailto:\myemail}{\myemail}} \\
   \faEnvelopeSquare\texttt{ \href{mailto:\myemail}{\myemail}} \\
   \includegraphics[height=1.2\fontcharht\font`\B]{images/gs.pdf}\texttt{ \href{https://scholar.google.co.uk/citations?user=v438vEAAAAAJ}{Google scholar}}\\
-  % \faGraduationCap\texttt{ \href{https://scholar.google.co.uk/citations?user=v438vEAAAAAJ}{Google scholar}}\\
-  %\faPhone \texttt{ \myphone }\\
   \faGlobe \texttt{ \href{\myweb}{\myweb}} \\ 
-  % \faTwitterSquare \texttt{\href{http://twitter.com/jaheppler}{\mytwitter}} \\
-  \faGithubSquare \texttt{ \href{http://github.com/\mygithub}{\mygithub}} \\
+  \faGithubSquare\texttt{ \href{http://github.com/\mygithub}{\mygithub}} \\
   \includegraphics[height=1.2\fontcharht\font`\B]{images/orcid.pdf}\texttt{ \href{https://orcid.org/\myorcid}{\myorcid}}
-  %\faLinkedinSquare \texttt{\href{http://linkedin.com/in/jasonheppler/}{jasonheppler}} \\
+  %\faLinkedinSquare {\href{http://linkedin.com/in/jasonheppler/}{jasonheppler}} \\
 \end{minipage}
 
 
@@ -153,8 +143,11 @@ Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK}
 \input{_tex/education}
 \input{_tex/experience}
 \input{_tex/skill}
-\input{_tex/extracurricular}
+ \input{_tex/extracurricular}
 % \input{_tex/selected}
 \input{_tex/publication}
+
+\clearpage
+\input{_tex/reference}
 
 \end{document}

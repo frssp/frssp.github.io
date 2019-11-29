@@ -19,7 +19,7 @@ tex-sect: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.md; \
-		pandoc --latex-engine=xelatex -o $(TEX_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
+		pandoc --pdf-engine=xelatex -o $(TEX_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
 	done
 
 init: dir 
