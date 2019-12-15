@@ -1,0 +1,3 @@
+# Patent  
+ - 장기주 오영준 김성현 이인호 이주영, 초격자 구조의 실리콘 결정 및 이를 포함하는 전자 소자(SILICON CRYSTAL WITH SUPERLATTICE STRUCTURE AND ELECTRONIC ELEMENT COMPRISING THE SAME), No. 1020150135944 -  2017.01.31
+
