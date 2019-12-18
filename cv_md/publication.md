@@ -1,4 +1,5 @@
 # Publications
+
 1. **Sunghyun Kim**, José A. Márquez, Thomas Unold, Aron Walsh, **Upper limit to the photovoltaic efficiency of imperfect crystals**, [arXiv:1912.07889](https://arxiv.org/abs/1912.07889).
 
 1. Kazuki Morita, Ji-Sang Park, **Sunghyun Kim**, Kenji Yasuoka, Aron Walsh, **Crystal Engineering of $\boldsymbol{\mathrm{Bi_2WO_6}}$ to Polar Aurivillius-Phase Oxyhalides**, [J. Phys. Chem. 123, 29155](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b09806).
