@@ -1,8 +1,10 @@
 # Publications
 
-1. **Sunghyun Kim**, José A. Márquez, Thomas Unold, and Aron Walsh, **Upper limit to the photovoltaic efficiency of imperfect crystals**, [arXiv:1912.07889](https://arxiv.org/abs/1912.07889).
+1. **Sunghyun Kim**, Samantha N. Hood, Puck van Gerwen, Lucy D. Whalley, and Aron Walsh, **CarrierCapture.jl: Anharmonic Carrier Capture**, [J. Open Source Softw., 5, 2102, (2020)](https://doi.org/10.21105/joss.02102).
 
-1. Kazuki Morita, Ji-Sang Park, **Sunghyun Kim**, Kenji Yasuoka, and Aron Walsh, **Crystal Engineering of $\boldsymbol{\mathrm{Bi_2WO_6}}$ to Polar Aurivillius-Phase Oxyhalides**, [J. Phys. Chem. 123, 29155](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b09806).
+1. **Sunghyun Kim**, José A. Márquez, Thomas Unold, and Aron Walsh, **Upper limit to the photovoltaic efficiency of imperfect crystals**, [Energy Environ. Sci., (2020), Accepted Manuscript](https://doi.org/10.1039/D0EE00291G), [arXiv:1912.07889](https://arxiv.org/abs/1912.07889).
+
+1. Kazuki Morita, Ji-Sang Park, **Sunghyun Kim**, Kenji Yasuoka, and Aron Walsh, **Crystal Engineering of $\boldsymbol{\mathrm{Bi_2WO_6}}$ to Polar Aurivillius-Phase Oxyhalides**, [J. Phys. Chem. 123, 29155 (2019)](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b09806).
 
 1. Ernest Pastor, Ji-Sang Park, Ludmilla Steier, **Sunghyun Kim**, Michael Grätzel, James R. Durrant, Aron Walsh, and Artem A. Bakulin, **In situ observation of picosecond polaron self-localisation in α-$\boldsymbol{\mathrm{Fe_2O_3}}$ photoelectrochemical cells**, [Nat. Comm.  10, 3962 (2019)](https://doi.org/10.1038/s41467-019-11767-9).
 
