@@ -1,8 +1,10 @@
 # Publications
 
+1. **Sunghyun Kim**, and Aron Walsh, **Comment on “Low-frequency lattice phonons in halide perovskites explain high defect tolerance toward electron-hole recombination”**, [arXiv:2003.05394](https://arxiv.org/abs/2003.05394).
+
 1. **Sunghyun Kim**, Samantha N. Hood, Puck van Gerwen, Lucy D. Whalley, and Aron Walsh, **CarrierCapture.jl: Anharmonic Carrier Capture**, [J. Open Source Softw., 5, 2102, (2020)](https://doi.org/10.21105/joss.02102).
 
-1. **Sunghyun Kim**, José A. Márquez, Thomas Unold, and Aron Walsh, **Upper limit to the photovoltaic efficiency of imperfect crystals**, [Energy Environ. Sci., (2020), Accepted Manuscript](https://doi.org/10.1039/D0EE00291G), [arXiv:1912.07889](https://arxiv.org/abs/1912.07889).
+1. **Sunghyun Kim**, José A. Márquez, Thomas Unold, and Aron Walsh, **Upper limit to the photovoltaic efficiency of imperfect crystals**, [Energy Environ. Sci., (2020), Accepted Manuscript](https://doi.org/10.1039/D0EE00291G).
 
 1. Kazuki Morita, Ji-Sang Park, **Sunghyun Kim**, Kenji Yasuoka, and Aron Walsh, **Crystal Engineering of $\boldsymbol{\mathrm{Bi_2WO_6}}$ to Polar Aurivillius-Phase Oxyhalides**, [J. Phys. Chem. 123, 29155 (2019)](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b09806).
 
