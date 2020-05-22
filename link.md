@@ -22,6 +22,9 @@ title: Link
         - [C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
         - [2D Matrials Encyclopedia](http://www.2dmatpedia.org)
     - [OPTiMaDe](https://www.optimade.org)
+    
+    - [i-PI](http://ipi-code.org) a universal force engine interface written in Python
 
 - ETC
     - [SQlimt](http://sjbyrnes.com/sq.html)
+    - [Graph](https://www.desmos.com/calculator/zxgn0tozbj)
