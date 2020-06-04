@@ -29,3 +29,4 @@ title: Link
     - [SQlimt](http://sjbyrnes.com/sq.html)
     - [Graph](https://www.desmos.com/calculator/zxgn0tozbj)
     - [Oxidation state](https://i2.wp.com/www.compoundchem.com/wp-content/uploads/2015/11/The-Periodic-Table-Of-Oxidation-States-2016.png?w=3118&ssl=1)
+    - [ETC periodic table](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2016/12/Periodic-Table-Group-Names-Dec-2016-Screen.png?w=3307&ssl=1)
