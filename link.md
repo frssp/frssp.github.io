@@ -24,6 +24,8 @@ title: Link
     - [OPTiMaDe](https://www.optimade.org)
     
     - [i-PI](http://ipi-code.org) a universal force engine interface written in Python
+    
+    - [NIST-JANAF Thermochemical Tables](https://janaf.nist.gov/)
 
 - ETC
     - [SQlimt](http://sjbyrnes.com/sq.html)
