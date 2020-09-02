@@ -1,5 +1,7 @@
 # Publications
 
+1. Andrea Crovetto, **Sunghyun Kim**, Moritz Fischer, Nicolas Stenger, Aron Walsh,  Ib Chorkendorff, and  Peter C. K. Vesborg, **Assessing the defect tolerance of kesterite-inspired solar absorbers**, [Energy Environ. Sci., 2020, Advance Article](https://doi.org/10.1039/D0EE02177F).
+
 1. **Sunghyun Kim**, Samantha N. Hood, Ji-Sang Park, Lucy D. Whalley, and Aron Walsh, **Quick-start quide for first-principles modelling of point defects in crystalline materiasl**, [J. Phys. Energy 2, 036001 (2020)](https://iopscience.iop.org/article/10.1088/2515-7655/aba081).
 
 1. **Sunghyun Kim**, and Aron Walsh, **Comment on “Low-frequency lattice phonons in halide perovskites explain high defect tolerance toward electron-hole recombination”**, [arXiv:2003.05394](https://arxiv.org/abs/2003.05394).
