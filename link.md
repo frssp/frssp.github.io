@@ -29,6 +29,8 @@ title: Link
 
     - [PubChem](https://pubchem.ncbi.nlm.nih.gov) 
 
+    - [Shanon radius](http://abulafia.mt.ic.ac.uk/shannon/ptable.php)
+
     - 2D material database
         - [materialscloud](https://www.materialscloud.org/discover/2dstructures/dashboard/ptable)
         - [C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
