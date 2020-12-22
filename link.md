@@ -28,6 +28,8 @@ title: Link
     - [Computational Chemistry Comparison and Benchmark DataBase](https://cccbdb.nist.gov/Intro.asp)
 
     - [PubChem](https://pubchem.ncbi.nlm.nih.gov) 
+    
+    - [American Mineralogist Crystal Structure Database](http://rruff.geo.arizona.edu/AMS/amcsd.php)  
 
     - [Shanon radius](http://abulafia.mt.ic.ac.uk/shannon/ptable.php)
 
