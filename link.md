@@ -42,6 +42,7 @@ title: Link
 
 - Reference
     - [MSM Archive](http://matprop.ru)
+    - [Chemistry-Reference](http://chemistry-reference.com/tables.asp)
     
 - ETC
     - [SQlimt](http://sjbyrnes.com/sq.html)
