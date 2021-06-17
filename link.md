@@ -34,6 +34,8 @@ title: Link
     - [American Mineralogist Crystal Structure Database](http://rruff.geo.arizona.edu/AMS/amcsd.php)  
 
     - [Shanon radius](http://abulafia.mt.ic.ac.uk/shannon/ptable.php)
+
+    - [EELS info](https://eels.info/atlas)
     
     - [iBonD](http://ibond.nankai.edu.cn/bde/)
 
