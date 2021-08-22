@@ -47,6 +47,7 @@ title: Link
 - Reference
     - [MSM Archive](http://matprop.ru)
     - [Chemistry-Reference](http://chemistry-reference.com/tables.asp)
+    - [BDE](https://labs.chem.ucsb.edu/zakarian/armen/11---bonddissociationenergy.pdf)
     
 - ETC
     - [SQlimt](http://sjbyrnes.com/sq.html)
