@@ -1,15 +1,14 @@
 # Publications
 
-1. DH Choe, S Kim, T Moon, S Jo, H Bae, SG Nam, YS Lee, J Heo, **Unexpectedly low barrier of ferroelectric switching in HfO2 via topological domain walls**,
+1. Duk-Hyun Choe, **Sunghyun Kim**, Taehwan Moon, Sanghyun  Jo, Hagyoul Bae, Seung-Geol Nam, Yun Seong Lee, and Jinseong Heo, **Unexpectedly low barrier of ferroelectric switching in HfO<sub>2</sub> via topological domain walls**,
 [Mater. Today (In press)](https://doi.org/10.1016/j.mattod.2021.07.022).
 
-1. Lucy D. Whalley, Puck van Gerwen, Jarvist M. Frost, **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Giant Huang–Rhys Factor for Electron Capture by the Iodine Intersitial in Perovskite Solar Cells**,
-2. [J. Am. Chem. Soc. 2021, 143, 24, 9123–9128 (2021)](https://doi.org//10.1021/jacs.1c03064).
+1. Lucy D. Whalley, Puck van Gerwen, Jarvist M. Frost, **Sunghyun Kim**, Samantha N. Hood, and Aron Walsh, **Giant Huang–Rhys Factor for Electron Capture by the Iodine Intersitial in Perovskite Solar Cells**, [J. Am. Chem. Soc. 143, 9123–9128 (2021)](https://doi.org//10.1021/jacs.1c03064).
 
 1. **Sunghyun Kim** and Aron Walsh, **Ab initio calculation of the detailed balance limit to the photovoltaic efficiency of single p-n junction kesterite solar cells**,
-[Appl. Phys. Lett. 118 (24), 243905 (2021)](https://doi.org/10.1063/5.0049143).
+[Appl. Phys. Lett. 118, 243905 (2021)](https://doi.org/10.1063/5.0049143).
 
-1. Andrea Crovetto, **Sunghyun Kim**, Moritz Fischer, Nicolas Stenger, Aron Walsh,  Ib Chorkendorff, and  Peter C. K. Vesborg, **Assessing the defect tolerance of kesterite-inspired solar absorbers**, [Energy Environ. Sci., 2020, Advance Article](https://doi.org/10.1039/D0EE02177F).
+1. Andrea Crovetto, **Sunghyun Kim**, Moritz Fischer, Nicolas Stenger, Aron Walsh,  Ib Chorkendorff, and  Peter C. K. Vesborg, **Assessing the defect tolerance of kesterite-inspired solar absorbers**, [Energy Environ. Sci. 13, 3489-3503 (2020)](https://doi.org/10.1039/D0EE02177F).
 
 1. **Sunghyun Kim**, Samantha N. Hood, Ji-Sang Park, Lucy D. Whalley, and Aron Walsh, **Quick-start quide for first-principles modelling of point defects in crystalline materiasl**, [J. Phys. Energy 2, 036001 (2020)](https://iopscience.iop.org/article/10.1088/2515-7655/aba081).
 
