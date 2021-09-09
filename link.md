@@ -30,6 +30,9 @@ title: Link
     - [Computational Chemistry Comparison and Benchmark DataBase](https://cccbdb.nist.gov/Intro.asp)
 
     - [PubChem](https://pubchem.ncbi.nlm.nih.gov) 
+    - [ChemSpider](http://www.chemspider.com/)
+    - [ChemIDplus](https://chem.nlm.nih.gov/chemidplus/)
+    - [Common Chemistry](https://commonchemistry.cas.org/)
     
     - [American Mineralogist Crystal Structure Database](http://rruff.geo.arizona.edu/AMS/amcsd.php)  
 
