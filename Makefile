@@ -3,7 +3,12 @@ IN_DIR=cv_md
 TEX_DIR=_tex
 STYLE=cv-template
 
-all: pdf 
+all: pdf career
+
+career: tex-sect
+	xelatex -output-directory $(OUT_DIR) \
+	         --jobname=career \
+	          $(TEX_DIR)/template_career.tex
 
 pdf: tex-sect
 	xelatex -output-directory $(OUT_DIR) \
