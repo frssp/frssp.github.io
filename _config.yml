@@ -12,8 +12,6 @@ links:
   - name:         Presentation
     url:          https://speakerdeck.com/sunghyunkim
     external:     true
-  - name:         Blog   
-    url:          /post   
   - name:         Link   
     url:          /link   
   - name:         phys_kr
