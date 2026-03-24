@@ -1,5 +1,5 @@
-Principle Researcher at
-Device Research Center,  
+Principal Engineer at
+Advanced device Platform,  
 [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr)  
 130 Samsung-ro, Yeongtong-gu, Suwon-si,  
 Gyeonggi-do, 443-803, Republic of Korea  
